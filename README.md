@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C545%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C546%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C545%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
@@ -14,9 +14,9 @@ Daily-updated dataset of available and resale .soccer one-word domains from Uniq
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,545 rows · **Live catalog:** 9,545 domains
+**Public extract:** 9,546 rows · **Live catalog:** 9,545 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/soccer`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .SOCCER one-word domai
 
 ### Files
 
-- `soccer.csv` — public CSV extract (9,545 rows)
-- `soccer.json` — public JSON extract (9,545 rows)
+- `soccer.csv` — public CSV extract (9,546 rows)
+- `soccer.json` — public JSON extract (9,546 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -64,10 +64,10 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| alpha.soccer  | available | $19.99    | $37.99        | 90             | 54     | 5      | name.com        |
+| zero.soccer   | available | $19.99    | $37.99        | 112            | 53     | 4      | name.com        |
 | about.soccer  | resell    | $19.99    | $29.99        | 94             | 37     | 5      | Sav.com, LLC    |
 | air.soccer    | premium   | $260      | $260          | 84             | 49     | 3      | namecheap       |
-| zero.soccer   | available | $19.99    | $37.99        | 112            | 53     | 4      | name.com        |
+| alpha.soccer  | available | $19.99    | $37.99        | 90             | 53     | 5      | name.com        |
 | get.soccer    | resell    | —         | —             | 88             | 69     | 3      | NameCheap, Inc. |
 | big.soccer    | premium   | $82.50    | $82.50        | 88             | 47     | 3      | name.com        |
 | fast.soccer   | available | $19.99    | $37.99        | 82             | 53     | 4      | name.com        |
@@ -77,7 +77,7 @@ print(df.head())
 | max.soccer    | resell    | —         | —             | 70             | 55     | 3      | NameCheap, Inc. |
 | law.soccer    | premium   | $42.90    | $42.90        | 82             | 46     | 3      | namecheap       |
 | design.soccer | available | $19.99    | $37.99        | 108            | 50     | 6      | name.com        |
-| love.soccer   | resell    | —         | —             | 86             | 52     | 4      | Sav.com, LLC    |
+| love.soccer   | resell    | —         | —             | 86             | 51     | 4      | Sav.com, LLC    |
 | wiz.soccer    | premium   | $500      | $500          | 80             | 32     | 3      | name.com        |
 | clear.soccer  | available | $19.99    | $37.99        | 90             | 49     | 5      | name.com        |
 | info.soccer   | resell    | —         | —             | 80             | 51     | 4      | Spaceship, Inc. |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,545-row public sample | 9,545 live domains                               |
+| 9,546-row public sample | 9,545 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SOCCER One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SOCCER One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
