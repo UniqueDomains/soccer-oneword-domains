@@ -398,6 +398,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 256dd1ef-2349-4564-bfe4-39f3df2f8b62,sedans.soccer,available,19.99,,51,3,6,name.com,,
 259d6a57-e78b-4e5e-8df2-9aeeae3c28b2,finalfrontier.soccer,available,19.99,,76,7,14,name.com,,
 25a66ef4-7e61-48dd-922d-5a0078f7ca6b,sanctions.soccer,available,19.99,,52,8,9,name.com,,
+260f0352-891a-4fce-a872-5163de44216d,men.soccer,resell,,,65,27,3,Porkbun LLC,05/05/2026 16:55,05/05/2027 16:55
 2615c92c-cc21-4302-b03f-9eccb84f4095,Ihavecancer.soccer,available,29.48,,44,2,13,namecheap,,
 26285829-2131-4a77-9b15-4bf9b3b757bb,subsequently.soccer,available,19.99,,58,1,12,name.com,,
 26b4c50d-f441-4bc2-8b27-45f4ce173c39,tastes.soccer,available,19.99,,52,6,6,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5718ee50-c505-4f3e-b140-9cc05114c136,speakers.soccer,available,19.99,,66,12,8,name.com,,
 57190407-2edf-4e97-8438-1e01368d1d8d,inwriting.soccer,available,19.99,,72,3,10,name.com,,
 573ec47e-55b1-4730-98ad-a40971d10a77,hits.soccer,available,19.99,,62,16,4,name.com,,
-576d8b67-0fbd-4ee5-8019-2d27c9301519,roommates.soccer,available,19.99,,58,14,9,name.com,,

@@ -1,10 +1,10 @@
-# Available .SOCCER One-Word Domains (12,483)
+# Available .SOCCER One-Word Domains (12,485)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C483%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C485%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .soccer one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,483 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,485 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,483 domains · **Median ask:** $21.35 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,485 domains · **Median ask:** $21.35 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-06  
+**Last updated:** 2026-05-08  
 **Canonical page:** `https://unique.domains/domains/tld/soccer`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Trex.soccer     | available | $29.48    | —             | 80             | 24     | 5      | namecheap |
-| WiFi.soccer     | available | $29.48    | —             | 83             | 37     | 5      | namecheap |
-| barup.soccer    | available | $19.99    | —             | 82             | 2      | 6      | name.com  |
-| forces.soccer   | available | $19.99    | —             | 82             | 12     | 6      | name.com  |
-| geton.soccer    | available | $19.99    | —             | 82             | 10     | 6      | name.com  |
-| popup.soccer    | available | $19.99    | —             | 84             | 29     | 6      | name.com  |
-| useit.soccer    | available | $19.99    | —             | 94             | 7      | 6      | name.com  |
-| dogsit.soccer   | available | $19.99    | —             | 96             | 2      | 6      | name.com  |
-| QandA.soccer    | available | $29.48    | —             | 80             | 10     | 7      | namecheap |
-| makeit.soccer   | available | $19.99    | —             | 82             | 22     | 7      | name.com  |
-| pierogi.soccer  | available | $19.99    | —             | 82             | 7      | 7      | name.com  |
-| leaveon.soccer  | available | $19.99    | —             | 80             | 1      | 8      | name.com  |
-| cars.soccer     | available | $19.99    | —             | 66             | 47     | 4      | name.com  |
-| videos.soccer   | premium   | $41.25    | —             | 52             | 30     | 6      | name.com  |
-| Tools.soccer    | available | $29.48    | —             | 56             | 40     | 5      | namecheap |
-| photos.soccer   | premium   | $500      | —             | 54             | 28     | 6      | name.com  |
-| prompts.soccer  | available | $19.99    | —             | 54             | 39     | 7      | name.com  |
-| Cats.soccer     | available | $29.48    | —             | 59             | 33     | 4      | namecheap |
-| partners.soccer | available | $19.99    | —             | 61             | 32     | 8      | name.com  |
-| trends.soccer   | available | $19.99    | —             | 60             | 32     | 6      | name.com  |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| Trex.soccer     | available | $29.48    | —             | 80             | 24     | 5      | namecheap   |
+| WiFi.soccer     | available | $29.48    | —             | 83             | 37     | 5      | namecheap   |
+| barup.soccer    | available | $19.99    | —             | 82             | 2      | 6      | name.com    |
+| forces.soccer   | available | $19.99    | —             | 82             | 12     | 6      | name.com    |
+| geton.soccer    | available | $19.99    | —             | 82             | 10     | 6      | name.com    |
+| popup.soccer    | available | $19.99    | —             | 84             | 29     | 6      | name.com    |
+| useit.soccer    | available | $19.99    | —             | 94             | 7      | 6      | name.com    |
+| dogsit.soccer   | available | $19.99    | —             | 96             | 2      | 6      | name.com    |
+| QandA.soccer    | available | $29.48    | —             | 80             | 10     | 7      | namecheap   |
+| makeit.soccer   | available | $19.99    | —             | 82             | 22     | 7      | name.com    |
+| pierogi.soccer  | available | $19.99    | —             | 82             | 7      | 7      | name.com    |
+| leaveon.soccer  | available | $19.99    | —             | 80             | 1      | 8      | name.com    |
+| cars.soccer     | available | $19.99    | —             | 66             | 47     | 4      | name.com    |
+| men.soccer      | resell    | —         | —             | 65             | 27     | 3      | Porkbun LLC |
+| videos.soccer   | premium   | $41.25    | —             | 52             | 30     | 6      | name.com    |
+| Tools.soccer    | available | $29.48    | —             | 56             | 40     | 5      | namecheap   |
+| photos.soccer   | premium   | $500      | —             | 54             | 28     | 6      | name.com    |
+| prompts.soccer  | available | $19.99    | —             | 54             | 39     | 7      | name.com    |
+| Cats.soccer     | available | $29.48    | —             | 59             | 33     | 4      | namecheap   |
+| partners.soccer | available | $19.99    | —             | 61             | 32     | 8      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,483 live domains                        |
+| 1,000-row public sample | 12,485 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SOCCER One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SOCCER One-Word Domains*. Version 2026-05-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
