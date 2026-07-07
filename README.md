@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .soccer one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,485 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,485 domains · **Median ask:** $21.35 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,485 domains · **Median ask:** $21.20 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/soccer`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/soccer`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .SOCCER one-word domai
 
 ### Files
 
-- `soccer.csv` — public CSV extract (1,000 rows)
-- `soccer.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `soccer.csv`, public CSV extract (1,000 rows)
+- `soccer.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| Trex.soccer    | available | $29.48    | —             | 80             | 24     | 5      | namecheap   |
-| WiFi.soccer    | available | $29.48    | —             | 83             | 37     | 5      | namecheap   |
-| barup.soccer   | available | $19.99    | —             | 82             | 2      | 6      | name.com    |
-| forces.soccer  | available | $19.99    | —             | 82             | 12     | 6      | name.com    |
-| geton.soccer   | available | $19.99    | —             | 82             | 10     | 6      | name.com    |
-| popup.soccer   | available | $19.99    | —             | 84             | 28     | 6      | name.com    |
-| useit.soccer   | available | $19.99    | —             | 94             | 7      | 6      | name.com    |
-| dogsit.soccer  | available | $19.99    | —             | 96             | 2      | 6      | name.com    |
-| QandA.soccer   | available | $29.48    | —             | 80             | 10     | 7      | namecheap   |
-| makeit.soccer  | available | $19.99    | —             | 82             | 21     | 7      | name.com    |
-| pierogi.soccer | available | $19.99    | —             | 82             | 7      | 7      | name.com    |
-| leaveon.soccer | available | $19.99    | —             | 80             | 1      | 8      | name.com    |
-| cars.soccer    | available | $19.99    | —             | 66             | 47     | 4      | name.com    |
-| men.soccer     | resell    | —         | —             | 65             | 27     | 3      | Porkbun LLC |
-| videos.soccer  | premium   | $41.25    | —             | 52             | 30     | 6      | name.com    |
-| Tools.soccer   | available | $29.48    | —             | 56             | 40     | 5      | namecheap   |
-| photos.soccer  | premium   | $500      | —             | 54             | 28     | 6      | name.com    |
-| prompts.soccer | available | $19.99    | —             | 54             | 39     | 7      | name.com    |
-| Cats.soccer    | available | $29.48    | —             | 59             | 33     | 4      | namecheap   |
-| trends.soccer  | available | $19.99    | —             | 60             | 32     | 6      | name.com    |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| ada.soccer        | available | $19.99    | —             | medium         | medium | 3      | name.com         |
+| one.soccer        | resell    | —         | —             | high           | medium | 3      | Porkbun LLC      |
+| ADS.soccer        | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo         |
+| Ann.soccer        | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| gold.soccer       | resell    | —         | —             | high           | medium | 4      | Automattic Inc.  |
+| air.soccer        | premium   | $260      | $260          | high           | medium | 3      | namecheap        |
+| atp.soccer        | available | $19.99    | —             | medium         | low    | 3      | name.com         |
+| wake.soccer       | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| day.soccer        | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo         |
+| bce.soccer        | available | $19.99    | —             | medium         | low    | 3      | name.com         |
+| drone.soccer      | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC |
+| law.soccer        | premium   | $42.90    | $42.90        | high           | medium | 3      | namecheap        |
+| bio.soccer        | available | $19.99    | —             | high           | medium | 3      | name.com         |
+| consulting.soccer | resell    | —         | —             | high           | low    | 10     | OVH SAS          |
+| org.soccer        | premium   | $500      | —             | medium         | medium | 3      | name.com         |
+| bud.soccer        | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| yes.soccer        | premium   | $242      | $242          | high           | medium | 3      | namesilo         |
+| eve.soccer        | available | $19.99    | —             | high           | medium | 3      | name.com         |
+| england.soccer    | premium   | $78.54    | $78.54        | high           | low    | 7      | namesilo         |
+| gym.soccer        | available | $19.99    | —             | high           | low    | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is made up of one-word .soccer domains. The names range from generic terms such as finals.soccer to broader dictionary-style words like forces.soccer, popup.soccer, and jewels.soccer. For founders, the key question is whether the word feels clear, memorable, and credible inside a soccer-specific extension. For investors, the main test is whether the keyword has obvious end-user relevance and a sensible ask relative to likely resale interest. The median ask is 21.35, so price discipline matters less than choosing words with clean meaning, strong recall, and a natural fit for clubs, media, training, events, gear, or fan communities.
+This selection covers 12,485 one-word .soccer domain names, including combined-word picks such as restassured.soccer, shoparound.soccer, and takeabreak.soccer. The median ask sits near $21, keeping most names within reach for quick comparison before deciding on renewal and long-term fit. Whether the goal is sourcing a deal or shortlisting a brandable name, this list surfaces short, memorable .soccer options in one place. Updated daily.
 
-- Prioritize words that read naturally with .soccer
-- Check whether the keyword is clear and easy to recall
-- Compare ask price against likely end-user relevance
-- Be cautious with terms that may raise trademark issues
+- Median ask near $21 across 12,485 one-word .soccer names
+- Brandable combos like coffeecake.soccer and toneup.soccer
+- Compare renewal cost before locking in a shortlist
+- Broad .soccer coverage surfaces deals fast for buyers
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SOCCER One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SOCCER One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
