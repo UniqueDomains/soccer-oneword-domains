@@ -9,7 +9,7 @@ c7b3e3f9-85ef-4322-89df-6ef7f42cbf21,join.soccer,available,19.99,,high,medium,4,
 417a1e9e-5781-41a0-831e-2338f485dab9,hardcider.soccer,available,19.99,,high,low,10,name.com,,,
 d7122d96-ea94-4071-96d4-e9a18674df0b,avertable.soccer,available,19.99,37.99,low,low,9,name.com,,,07/08/2026 23:01
 ad38da5e-a735-4f7c-963f-032c31b47fd3,ssi.soccer,available,19.99,,high,low,3,name.com,,,
-7b7425fc-64e3-40f3-8ebe-01c272a053cb,acne.soccer,available,19.99,,medium,low,4,name.com,,,
+7b7425fc-64e3-40f3-8ebe-01c272a053cb,acne.soccer,available,19.99,,low,low,4,name.com,,,
 78fcd1ae-4c8d-41fc-b33b-5dc5839cd503,kingjames.soccer,available,19.99,,high,low,10,name.com,,,
 b55cd229-01ea-4f6d-84fc-80f8c4e1828d,involvement.soccer,available,19.99,,high,low,11,name.com,,,
 fd9afdcc-430c-497c-a7cb-3bb8dd3eeb93,prepared.soccer,available,19.99,37.99,medium,low,8,name.com,,,
@@ -22,7 +22,7 @@ b2cebb69-4df1-4f19-be08-01a8330a82c4,coverage.soccer,available,19.99,,high,low,8
 38ac27e0-f3e4-4219-9185-600e62dd93f6,sweptback.soccer,available,19.99,37.99,low,low,9,name.com,,,08/08/2026 06:42
 64b777d8-f22b-463b-967c-0874a8c7edcf,circinate.soccer,available,19.99,37.99,low,low,9,name.com,,,
 d10d2c77-17fd-4078-ba97-caa564a72723,landscape.soccer,available,19.99,,high,low,9,name.com,,,
-9a58d5c8-9a4e-4811-8eb9-b3f796c531c8,bored.soccer,available,19.99,,medium,low,5,name.com,,,
+9a58d5c8-9a4e-4811-8eb9-b3f796c531c8,bored.soccer,available,25.99,25.99,low,low,5,namesilo,,,23/09/2026 00:16
 e1b24c27-9f2f-47d0-8f7f-048daa837427,playitsafe.soccer,available,19.99,,medium,low,12,name.com,,,
 dc0297b3-6c9b-416d-a3c2-9fc3e19f381c,riskcapital.soccer,available,19.99,,low,low,12,name.com,,,
 788ec080-a29a-43f1-8017-e9f83a7e6d48,arching.soccer,available,19.99,37.99,low,low,7,name.com,,,06/08/2026 14:39
@@ -44,11 +44,11 @@ f0b476f9-2382-4f40-acd2-47c7d5dab0e3,ascending.soccer,available,19.99,37.99,low,
 9c6e0262-6c29-4972-ae97-d456b4d6c0a4,jameswatt.soccer,available,19.99,,high,low,10,name.com,,,
 1fea7330-f94b-4cf5-98ae-7081a3dc3c57,helping.soccer,available,19.99,,high,low,7,name.com,,,
 74b67ab1-95b4-4450-9a16-b98e7426f397,elias.soccer,available,19.99,,high,low,5,name.com,,,
-aa2eeb90-312d-4837-830a-388bcf0c4e3b,ascent.soccer,available,19.99,,high,low,6,name.com,,,
+aa2eeb90-312d-4837-830a-388bcf0c4e3b,ascent.soccer,available,25.99,25.99,low,low,6,namesilo,,,22/09/2026 09:19
 50922906-5320-4a3c-a254-361c3bd3495f,vehicle.soccer,available,19.99,,high,low,7,name.com,,,
 a736c549-7773-42f5-af0f-5d0a9f8eb630,antiquary.soccer,available,19.99,37.99,low,low,9,name.com,,,
 c7bf68df-5190-424d-892f-54e6ca148b4d,agree.soccer,available,19.99,,high,low,5,name.com,,,
-8832edb8-fd5e-4af0-aebb-c39a7c2c88e6,sedative.soccer,available,19.99,,high,low,8,name.com,,,
+8832edb8-fd5e-4af0-aebb-c39a7c2c88e6,sedative.soccer,available,25.99,25.99,low,low,8,namesilo,,,22/09/2026 10:55
 e01b846a-d15d-482d-9eb6-aed2edd869d7,case.soccer,available,19.99,,high,low,4,name.com,,,
 aa0e14cd-5440-4553-82df-5b40a2ffb074,admittible.soccer,available,19.99,37.99,low,low,10,name.com,,,
 c63b4d5d-8478-4c1a-a568-6e2beba290ac,articulary.soccer,available,19.99,37.99,low,low,10,name.com,,,06/08/2026 23:31
@@ -71,8 +71,8 @@ ea95f2ac-e85c-440b-88ca-5633f4b71203,antitank.soccer,available,19.99,37.99,low,l
 57f6b0a0-b8e4-466d-89f3-a2dfc0a30828,atrophic.soccer,available,19.99,37.99,low,low,8,name.com,,,07/08/2026 14:52
 6decfebe-271f-43ab-a205-4858a8d6a0b8,were.soccer,available,19.99,,high,low,4,name.com,,,
 9631e49f-0671-4efb-bfe6-ad391140ea72,stclair.soccer,available,19.99,,medium,low,9,name.com,,,
-f04b6bbe-0562-4ebc-8b95-9b95f0fccdba,efficient.soccer,available,19.99,37.99,high,low,9,name.com,,,
-8b2e5b6c-5581-4e47-b901-71ea742c9bcd,amorous.soccer,available,19.99,37.99,high,low,7,name.com,,,
+f04b6bbe-0562-4ebc-8b95-9b95f0fccdba,efficient.soccer,available,25.99,25.99,medium,low,9,namesilo,,,23/09/2026 05:33
+8b2e5b6c-5581-4e47-b901-71ea742c9bcd,amorous.soccer,available,27.48,29.48,medium,low,7,namecheap,,,22/09/2026 03:25
 cd0b415f-a3c3-47ab-8b71-5c88313091a7,avionic.soccer,available,19.99,37.99,low,low,7,name.com,,,07/08/2026 23:35
 618f8cd7-902e-4228-9121-fbee3e9642ac,cipher.soccer,available,25.99,25.99,medium,low,6,namesilo,,,08/09/2026 15:11
 c33737f2-f69b-462a-a5bf-2488795d713a,approved.soccer,available,19.99,37.99,low,low,8,name.com,,,06/08/2026 09:20
@@ -93,24 +93,23 @@ d079ae19-a14d-47f6-b7c4-2379c9cc4429,saving.soccer,available,19.99,,high,low,6,n
 ca8a570f-ce1e-47ca-aea6-1919813309e0,whether.soccer,available,19.99,,high,low,7,name.com,,,
 6cdddc91-a353-4758-bfda-85c8102fadd6,toothcare.soccer,available,19.99,,low,low,9,name.com,,,
 3a5ecd11-6560-4a97-b720-3ec29751fa63,capital.soccer,available,27.48,29.48,medium,low,7,namecheap,,,19/09/2026 09:29
-34b302e5-9641-4c9b-a138-5bbca110bf7a,favored.soccer,available,19.99,,high,low,7,name.com,,,
+34b302e5-9641-4c9b-a138-5bbca110bf7a,favored.soccer,available,27.48,29.48,medium,low,7,namecheap,,,22/09/2026 20:01
 c8603e84-c3a4-4503-8f0f-3849592fcde9,intheraw.soccer,available,27.48,29.48,low,low,10,namecheap,,,16/09/2026 08:01
 95d063ef-8e2b-48ae-8891-ef813241136c,whoareyou.soccer,available,19.99,,low,low,11,name.com,,,
 c75297fb-21ec-4f08-9b30-f52d5e944b2c,foul.soccer,available,19.99,37.99,low,low,4,name.com,,,
 7bd0f861-88d4-41d6-a70f-f9c3c24e54bf,cricketscore.soccer,available,19.99,,high,low,13,name.com,,,
-fe6179bc-dc73-453d-ad61-d17903a64045,brilliant.soccer,available,19.99,,high,low,9,name.com,,,
+fe6179bc-dc73-453d-ad61-d17903a64045,brilliant.soccer,available,25.99,25.99,medium,low,9,namesilo,,,23/09/2026 02:12
 1b388254-2cd3-412d-9a11-47b0eaace9b2,anuric.soccer,available,19.99,37.99,low,low,6,name.com,,,05/08/2026 21:22
 5d9735d9-a962-496e-bb3d-7c05bdefb932,nowhearthis.soccer,available,19.99,,low,low,13,name.com,,,
 0409a0cc-985a-48ba-a677-92b87d03e947,habitat.soccer,available,,,high,low,7,,,,
 7a395bdb-e888-44b0-8f68-6163d9d25320,resolvable.soccer,available,19.99,,high,low,10,name.com,,,
 2da80e2d-5a93-42ba-89f3-a28055c4a5a2,xxxviii.soccer,available,19.99,37.99,low,low,7,name.com,,,
 f4d72166-abfa-4c8b-aaf9-e11a6f1e192e,shirtless.soccer,available,19.99,,medium,low,9,name.com,,,
-58af7df4-9914-41d9-a8a6-080a4d3edc52,sapphire.soccer,available,,,high,high,8,,,,
 1cc12da1-8511-450f-8805-4ae76d150e8c,ruined.soccer,available,19.99,,medium,low,6,name.com,,,
 6ec72d60-bd3d-45d1-baf2-d444513b6523,wagon.soccer,available,19.99,,medium,low,5,name.com,,,
 c91d3424-5e77-4928-88a4-c2d905d86887,repeat.soccer,available,19.99,37.99,high,low,6,name.com,,,
 66a065e9-4796-4fd7-a719-2c3e779f4d8b,atthebank.soccer,available,19.99,,high,low,11,name.com,,,
-abbd9612-5e2b-4ff9-9894-cee13fa9c21b,one.soccer,resell,,,high,medium,3,Porkbun LLC,20/03/2025 18:52,20/03/2027 18:52,
+abbd9612-5e2b-4ff9-9894-cee13fa9c21b,one.soccer,resell,,,medium,low,3,Porkbun LLC,20/03/2025 18:52,20/03/2027 18:52,21/09/2026 10:37
 0f73133a-c277-4af2-b4fb-5b2ead970085,eve.soccer,available,19.99,,high,medium,3,name.com,,,
 58460b07-7e89-4c9f-b084-690435440de6,giveahoot.soccer,available,19.99,,high,low,11,name.com,,,
 cf3cd15b-e199-4fb1-9ac9-cf26bb93eb10,financial.soccer,available,25.99,25.99,low,low,9,namesilo,,,19/09/2026 09:32
@@ -121,8 +120,8 @@ cf3cd15b-e199-4fb1-9ac9-cf26bb93eb10,financial.soccer,available,25.99,25.99,low,
 e4c42ed3-3d71-4871-bc78-c70fcc52f2e6,bio.soccer,available,19.99,,high,medium,3,name.com,,,
 ac604012-c6c6-47e9-ab1e-b019e12bcee0,lxxxviii.soccer,available,19.99,37.99,low,low,8,name.com,,,
 118637b0-2d0c-4ca7-adfd-82abbffc84bc,telecom.soccer,available,19.99,,high,low,7,name.com,,,
-d8d89413-ebd1-47e3-a255-a1ff8267e1f5,foreman.soccer,available,19.99,,medium,low,7,name.com,,,
-13b0893f-b234-42fb-a6ba-a6f25cd90200,ten.soccer,available,19.99,37.99,high,low,3,name.com,,,
+d8d89413-ebd1-47e3-a255-a1ff8267e1f5,foreman.soccer,available,25.99,25.99,low,low,7,namesilo,,,23/09/2026 00:59
+13b0893f-b234-42fb-a6ba-a6f25cd90200,ten.soccer,available,25.99,25.99,medium,low,3,namesilo,,,21/09/2026 10:51
 6cb3af17-5d4c-496f-8831-b5f973a6ccf7,library.soccer,available,25.99,25.99,medium,low,7,namesilo,,,19/09/2026 14:39
 b013f636-93d6-4531-ba74-8b5fc6144df0,easter.soccer,available,19.99,37.99,high,low,6,name.com,,,
 d2923ddc-70df-4f24-90d0-58d1d94b4687,rein.soccer,available,19.99,,high,low,4,name.com,,,
@@ -148,7 +147,7 @@ cd767756-f0d1-4b6b-b678-b644d3939104,firsttime.soccer,available,19.99,,high,low,
 8ac4a2f6-3533-495a-849d-7fcd17fa4b96,lap.soccer,available,19.99,,high,low,3,name.com,,,
 df03d652-c264-4caf-ae66-6320d8089ee1,butcher.soccer,available,19.99,,medium,low,7,name.com,,,
 82c7e51e-c48c-4582-8970-560a9beb8a65,dismay.soccer,available,19.99,,high,low,6,name.com,,,
-bcb2b051-c7c7-4151-a9db-73fcc0c3da1d,affable.soccer,available,19.99,37.99,high,low,7,name.com,,,
+bcb2b051-c7c7-4151-a9db-73fcc0c3da1d,affable.soccer,available,27.48,29.48,medium,low,7,namecheap,,,21/09/2026 21:27
 dc2ef218-e373-4fe1-a878-5d73ab59d9c6,inpublic.soccer,available,25.99,25.99,low,low,9,namesilo,,,16/09/2026 13:11
 30c80dc5-26ea-4193-9ff7-ff02233aaea8,acold.soccer,available,19.99,37.99,low,low,5,name.com,,,
 df550a98-0141-41b2-b50b-1401a2c410c9,awakening.soccer,available,19.99,,high,low,9,name.com,,,
@@ -156,14 +155,14 @@ df550a98-0141-41b2-b50b-1401a2c410c9,awakening.soccer,available,19.99,,high,low,
 b630dbe1-5c50-4bfe-844e-efd5008adcde,deepest.soccer,available,19.99,,medium,low,7,name.com,,,
 8afcb52d-9f2a-44bc-b1a2-206bfec78d22,magnifyingglass.soccer,available,19.99,,high,low,16,name.com,,,
 345a6499-26d8-4eeb-b2e2-f9733bfdccd1,strip.soccer,available,19.99,37.99,high,low,5,name.com,,,
-3c109084-e4d9-4f86-8441-54ee919d51fe,broadcast.soccer,available,27.48,29.48,medium,low,9,namecheap,,,19/09/2026 05:03
+3c109084-e4d9-4f86-8441-54ee919d51fe,broadcast.soccer,available,25.99,25.99,medium,low,9,namesilo,,,23/09/2026 04:24
 b4243858-3b42-4100-a623-a53b7e282e97,birth.soccer,available,19.99,,high,low,5,name.com,,,
 a03b8c05-264b-4da6-af1c-be985b3b3a52,tortoiseshell.soccer,available,19.99,,medium,low,14,name.com,,,
 546b2968-12ca-4c5a-8b35-57faded62eb4,shell.soccer,available,,,medium,low,5,,,,
 5bb93c8c-c5f4-4fd9-97c9-ae857fec1bbf,distract.soccer,available,19.99,,high,low,8,name.com,,,
 fb96f8be-c8e2-4a82-aa08-388fc6f24d24,warmachine.soccer,available,19.99,,medium,low,11,name.com,,,
 3046a5ce-21e5-4765-b653-5667baa66861,ugh.soccer,available,19.99,,medium,low,3,name.com,,,
-cc330f0f-0b28-46f8-9e52-c2ef94f21672,jump.soccer,available,19.99,37.99,high,low,4,name.com,,,
+cc330f0f-0b28-46f8-9e52-c2ef94f21672,jump.soccer,available,25.99,25.99,low,low,4,namesilo,,,22/09/2026 02:34
 c56d3098-c976-44de-829f-fc35443b2c3f,winback.soccer,available,19.99,,medium,low,8,name.com,,,
 5be3efce-8527-4630-b804-befc4a35f814,gotobedwith.soccer,available,19.99,,medium,low,14,name.com,,,
 9c8e6593-dbed-4502-b520-58ccb2a99f1f,colour.soccer,available,19.99,,high,low,6,name.com,,,
@@ -201,13 +200,13 @@ b0c8b50a-023d-4610-b5bc-054236779b66,skilled.soccer,available,19.99,,high,low,7,
 bc72572d-eb7d-4f21-8efb-0810bad00985,abused.soccer,available,19.99,37.99,low,low,6,name.com,,,
 e4030169-863b-4192-886f-33fb82cc13d7,negative.soccer,available,19.99,37.99,high,low,8,name.com,,,
 cda45e46-1781-4d97-a4d9-e95d42edc231,march.soccer,available,,,high,low,5,,,,
-a02cac18-09b6-4bc6-aaf7-e38bc06ef413,sick.soccer,available,19.99,,medium,low,4,name.com,,,
+a02cac18-09b6-4bc6-aaf7-e38bc06ef413,sick.soccer,available,25.99,25.99,low,low,4,namesilo,,,23/09/2026 02:10
 96a52346-9a3a-460c-8930-7326355dfa5c,xxviii.soccer,available,19.99,37.99,low,low,6,name.com,,,
 a2545ae2-ddb4-4247-867f-6a7df4728d40,daggum.soccer,available,19.99,,high,low,6,name.com,,,
 e0f727cf-cf21-4f5a-b7a4-3bbf87b36428,acinic.soccer,available,19.99,37.99,low,low,6,name.com,,,
-b80b1ab1-f5e3-4aba-93be-a4776e3b63f6,nonstop.soccer,available,19.99,,high,low,7,name.com,,,
+b80b1ab1-f5e3-4aba-93be-a4776e3b63f6,nonstop.soccer,available,25.99,25.99,medium,low,7,namesilo,,,22/09/2026 08:07
 c4ec7d70-bbc6-467e-8483-9c46cafce970,awny.soccer,available,19.99,37.99,low,low,4,name.com,,,08/08/2026 01:25
-99232314-a814-47e1-8a0f-9ff65716ec82,wet.soccer,available,19.99,,high,low,3,name.com,,,
+99232314-a814-47e1-8a0f-9ff65716ec82,wet.soccer,available,25.99,25.99,medium,low,3,namesilo,,,22/09/2026 19:43
 5a55ef1e-1079-4c9f-ba5a-28d496b81a08,younger.soccer,available,19.99,,high,low,7,name.com,,,
 f7e704af-f680-4d0b-a4cf-a2c815ea147a,scrubbed.soccer,available,19.99,,medium,low,8,name.com,,,
 db6425d2-6c6d-4080-843a-3114ac797f13,toying.soccer,available,19.99,,medium,low,6,name.com,,,
@@ -219,7 +218,7 @@ b9a35f9e-494f-40d2-b394-c69837185104,anall.soccer,available,19.99,,medium,low,6,
 a1c5cc6e-36ee-4a6d-9742-28bf9adba445,fiftyfour.soccer,available,19.99,37.99,low,low,10,name.com,,,
 99e7009d-0691-4bac-87f0-e2df1e716f73,befogged.soccer,available,19.99,37.99,low,low,8,name.com,,,09/08/2026 08:43
 63611eca-2f46-43ae-9480-26514e69dad4,luck.soccer,available,19.99,,high,low,4,name.com,,,
-ca139ba0-d72a-4494-b1a4-013d96ee8569,activist.soccer,available,19.99,37.99,high,low,8,name.com,,,
+ca139ba0-d72a-4494-b1a4-013d96ee8569,activist.soccer,available,25.99,25.99,medium,low,8,namesilo,,,21/09/2026 16:34
 4374ca56-b899-42fd-b577-ecb50f3d611b,towed.soccer,available,19.99,,low,low,5,name.com,,,
 3f6a1260-55f7-49ba-933d-c1e51b2bccf3,bemused.soccer,available,19.99,37.99,low,low,7,name.com,,,07/08/2026 11:47
 86356008-0952-4676-afd9-b642f2947076,giftcertificate.soccer,available,19.99,,high,low,16,name.com,,,
@@ -239,7 +238,7 @@ b0e96a25-6add-448c-b148-9db19a47b32d,badmintoncourt.soccer,available,19.99,,high
 9c47d888-d778-4377-b05b-63a962ba121a,wandering.soccer,available,19.99,,high,low,9,name.com,,,
 d82268b4-4e63-41cf-a785-1b75a9bd9218,iamafraidofthis.soccer,available,19.99,,medium,low,19,name.com,,,
 7739bf25-2c5e-42ec-ac69-0eab76af0a0a,crisp.soccer,available,19.99,37.99,medium,low,5,name.com,,,
-cef5afe5-c786-4321-a4bd-4b7cb8aaa02e,three.soccer,available,19.99,37.99,high,low,5,name.com,,,
+cef5afe5-c786-4321-a4bd-4b7cb8aaa02e,three.soccer,available,25.99,25.99,medium,low,5,namesilo,,,21/09/2026 13:02
 5f500644-0dac-410b-8d26-ee0c0e53ed4a,nondrinker.soccer,available,19.99,37.99,low,low,10,name.com,,,
 52a3de84-eaa9-4c2d-9064-8e2e7ad39c19,relatedto.soccer,available,19.99,,medium,low,10,name.com,,,
 d3ccc224-0afa-44c4-8ff5-5c4ce6e02150,westwood.soccer,available,19.99,,low,low,8,name.com,,,
@@ -282,7 +281,7 @@ e3e72302-17d1-468b-aa27-2442c5123df7,idonotknowit.soccer,available,19.99,,medium
 f5b32978-40ff-4918-abe3-104996db6575,extendto.soccer,available,19.99,,high,low,9,name.com,,,
 9645ab5d-1fe2-4caa-b5de-876e10906ecd,provoke.soccer,available,19.99,,medium,low,7,name.com,,,
 449b8783-17b9-41fd-a988-ad1c78774f66,idiom.soccer,available,19.99,,high,low,5,name.com,,,
-99ab8b32-7fc8-48d0-a8dc-be50b4a447a5,champion.soccer,available,19.99,37.99,high,low,8,name.com,,,
+99ab8b32-7fc8-48d0-a8dc-be50b4a447a5,champion.soccer,available,25.99,25.99,medium,low,8,namesilo,,,21/09/2026 17:32
 e456d190-f0ee-4fbf-91a2-2cf83743a8c7,uremic.soccer,available,19.99,37.99,low,low,6,name.com,,,08/08/2026 02:43
 2c15df23-bc17-4ff5-97af-8772d2236b63,soap.soccer,available,19.99,,high,low,4,name.com,,,
 6b527316-98d0-4cc7-9fef-3756b53d0ed6,burred.soccer,available,19.99,37.99,low,low,6,name.com,,,08/08/2026 17:23
@@ -296,7 +295,7 @@ bf87fab4-bd9c-4ad8-9d16-93ea24adc5c9,successor.soccer,available,19.99,,medium,lo
 4188dc1b-2789-416f-a00a-8a9294cc2e99,anoxemic.soccer,available,19.99,37.99,low,low,8,name.com,,,
 0644fa17-e06a-4301-b422-295e16a72906,arthurian.soccer,available,19.99,37.99,low,low,9,name.com,,,06/08/2026 23:21
 69a2208d-e580-42b0-8286-23648ddce28b,eclipse.soccer,available,19.99,,high,low,7,name.com,,,
-354484ef-02f6-4267-8597-61cb70bc42cf,ancient.soccer,available,19.99,,high,low,7,name.com,,,
+354484ef-02f6-4267-8597-61cb70bc42cf,ancient.soccer,available,27.48,29.48,medium,low,7,namecheap,,,22/09/2026 04:21
 906fd3ad-c9e2-4fad-b40a-61360ef8e703,internal.soccer,available,19.99,,medium,low,8,name.com,,,
 dd232e14-3f3c-4258-a2e3-c88dcae572eb,cooldown.soccer,available,19.99,37.99,high,low,9,name.com,,,
 ddd25ace-0f23-46a0-8f12-444ba7a1ca75,spontaneity.soccer,available,19.99,,medium,low,11,name.com,,,
@@ -322,7 +321,7 @@ c8d2b756-6f5c-4192-922f-a18e4e8798a1,assuring.soccer,available,19.99,37.99,low,l
 7039361f-790a-4f82-9602-f9b854993b63,sandy.soccer,available,19.99,37.99,low,low,5,name.com,,,06/08/2026 17:31
 cd837400-c11f-4ab1-8de8-79f180fb53c1,acronymic.soccer,available,19.99,37.99,low,low,9,name.com,,,
 00736705-0a7f-4141-9c4e-9faa2bd4e5ea,todate.soccer,available,19.99,,medium,low,7,name.com,,,
-f0164497-0a00-4748-afc7-638ece09ab0e,wake.soccer,resell,,,high,low,4,"GoDaddy.com, LLC",21/11/2015 13:12,21/11/2026 13:12,
+f0164497-0a00-4748-afc7-638ece09ab0e,wake.soccer,resell,,,low,low,4,"GoDaddy.com, LLC",21/11/2015 13:12,21/11/2026 13:12,22/09/2026 14:42
 90c623c5-b209-40f8-bd63-cca70a48b2a9,acneiform.soccer,available,19.99,37.99,low,low,9,name.com,,,
 d74157f3-8f2a-4f6d-851d-6da89c3e6a2b,barred.soccer,available,19.99,37.99,low,low,6,name.com,,,08/08/2026 20:37
 8cebed6a-294d-481b-ab00-50080fc4828c,asked.soccer,available,19.99,,high,low,5,name.com,,,
@@ -339,16 +338,16 @@ fa0edf2e-4aa9-49f9-a479-558d6f83346f,column.soccer,available,25.99,25.99,medium,
 bd72fa9d-5afe-45b1-b0a9-c3b6e00a35c3,nursery.soccer,available,19.99,,medium,low,7,name.com,,,
 acc6fb83-13eb-4ab2-bac5-bae29c3a6ad8,sitting.soccer,available,19.99,,high,low,7,name.com,,,
 0fb9b1f2-0c75-4177-ac21-bb8727e1072e,vivid.soccer,available,19.99,,high,low,5,name.com,,,
-2d5ebc03-9da8-478e-8f3d-990a3097f203,audacious.soccer,available,19.99,,high,low,9,name.com,,,
+2d5ebc03-9da8-478e-8f3d-990a3097f203,audacious.soccer,available,27.48,29.48,medium,low,9,namecheap,,,22/09/2026 12:06
 c337fbcb-a253-440c-a54c-7ea6c006d395,study.soccer,available,25.99,25.99,medium,low,5,namesilo,,,20/09/2026 03:18
 fbe8bdb8-6d9c-4435-88a5-a3926fab0b1c,bird.soccer,available,19.99,,high,medium,4,name.com,,,
-93737826-c793-4105-b1c7-589ade80413c,allied.soccer,available,19.99,37.99,high,low,6,name.com,,,
+93737826-c793-4105-b1c7-589ade80413c,allied.soccer,available,27.48,29.48,medium,low,6,namecheap,,,22/09/2026 01:28
 09625d8b-1dbe-4b68-a8ef-c54a630013dc,inthreedays.soccer,available,19.99,,medium,low,13,name.com,,,
 5e4fe4c4-2fed-4d0f-b95c-39d72feab065,law.soccer,premium,42.9,42.9,high,medium,3,namecheap,,,
 fa7787d9-8c94-4de0-83aa-0b06ee69009f,youneverknow.soccer,available,19.99,,low,low,14,name.com,,,
 58544544-507b-4ffa-b277-29edac00b64b,irishhospitality.soccer,available,19.99,,high,low,17,name.com,,,
 65c6fa2d-8d02-4d55-9334-9f740398e4ab,confide.soccer,available,19.99,,high,low,7,name.com,,,
-4024997e-1d4d-4397-8228-455c1d779b0a,alamode.soccer,available,19.99,37.99,high,low,9,name.com,,,
+4024997e-1d4d-4397-8228-455c1d779b0a,alamode.soccer,available,25.99,25.99,medium,low,9,namesilo,,,21/09/2026 13:34
 3bf9653e-91ae-49be-be96-63b17168b807,sighted.soccer,available,19.99,,medium,low,7,name.com,,,
 2225bf96-3d2d-4a2e-a095-155bbcfe5a68,schoolboard.soccer,available,19.99,,high,low,12,name.com,,,
 d52a343a-dca5-464f-bab8-3143e37d1419,treasurydepartment.soccer,available,19.99,,medium,low,19,name.com,,,
@@ -356,7 +355,6 @@ d52a343a-dca5-464f-bab8-3143e37d1419,treasurydepartment.soccer,available,19.99,,
 6ba017e7-c20f-4cdb-8fbb-c74a0aa4a812,lightningstrike.soccer,available,19.99,,medium,low,16,name.com,,,
 fc4c6e08-2cdf-425c-b41b-04d2e0ff4b79,nonewsisgoodnews.soccer,available,19.99,,medium,low,20,name.com,,,
 3313ba3e-cb3a-424b-a893-4468408ba737,carribean.soccer,available,19.99,,high,low,9,name.com,,,
-33f37b22-bd5a-4a9b-9e8d-f3a670c50e1d,fantastic.soccer,available,,,high,high,9,,,,
 a54ec18a-56c4-4f0b-92ec-d1386e6c75b3,baconexplosion.soccer,available,19.99,,high,low,15,name.com,,,
 bac0d55f-a942-49fb-8f99-977fc1cc7128,chain.soccer,available,19.99,,medium,low,5,name.com,,,
 dc8d7536-fd65-48f6-bec7-e19d986af02c,baptised.soccer,available,19.99,37.99,low,low,8,name.com,,,08/08/2026 15:00
@@ -369,7 +367,7 @@ a6b6768f-aad3-4873-9eeb-61735135fe17,fanny.soccer,available,19.99,37.99,low,low,
 c4af5f86-8a46-4d7f-9186-eb8a7705c313,forehead.soccer,available,19.99,,high,low,8,name.com,,,
 ccb80fd1-6b08-47ce-87ff-9e5f004381cc,antidromic.soccer,available,19.99,37.99,low,low,10,name.com,,,
 1045baec-3da9-4411-8da6-6c975ea307c1,presentation.soccer,available,19.99,,medium,low,12,name.com,,,
-43a5e4fc-b37d-4a93-a89d-ac553a1f8699,awesome.soccer,available,19.99,,high,medium,7,name.com,,,
+43a5e4fc-b37d-4a93-a89d-ac553a1f8699,awesome.soccer,available,25.99,25.99,medium,low,7,namesilo,,,22/09/2026 15:04
 4ed335d5-8c40-4e5f-832f-10aec302185c,appressed.soccer,available,19.99,37.99,low,low,9,name.com,,,
 cd429871-f669-474b-b608-bdb5e4f93ed4,restricted.soccer,available,19.99,,medium,low,10,name.com,,,
 716c4a75-e69c-48fb-82ed-8552a70a9234,unfortunately.soccer,available,19.99,,medium,low,13,name.com,,,
@@ -377,7 +375,7 @@ cd429871-f669-474b-b608-bdb5e4f93ed4,restricted.soccer,available,19.99,,medium,l
 2c42cadc-6822-46cb-907c-be1f9db4c4d0,june.soccer,available,19.99,,high,low,4,name.com,,,
 7fd0cd08-da7b-4838-b0d5-21b0d960ca3f,match.soccer,available,,,high,low,5,,,,
 ef63be07-a98b-4cd5-80b7-cd446072d68e,naturestudent.soccer,available,19.99,,low,low,14,name.com,,,
-198589af-1dd4-43f5-bfb2-c29958bbeb5e,remove.soccer,available,19.99,37.99,high,low,6,name.com,,,
+198589af-1dd4-43f5-bfb2-c29958bbeb5e,remove.soccer,available,25.99,25.99,medium,low,6,namesilo,,,21/09/2026 14:40
 569dadd6-90e5-406f-88c9-f41597a84283,masculine.soccer,available,19.99,,high,low,9,name.com,,,
 5c54d70f-67d1-4e7f-8c90-fa9115ec078e,shears.soccer,available,19.99,,medium,low,6,name.com,,,
 367aac37-8b46-4fd3-95a5-408655f76025,buns.soccer,available,19.99,37.99,low,low,4,name.com,,,09/08/2026 10:54
@@ -431,7 +429,7 @@ a0698733-5077-45a5-ba6a-855c879be3a2,rain.soccer,available,19.99,37.99,medium,lo
 e795966e-05a5-448a-81e7-854ca0492e44,tesla.soccer,available,19.99,,high,medium,5,name.com,,,
 ac92e93c-7045-4447-a5b1-176ab40728f5,sumbuddy.soccer,available,19.99,,medium,low,8,name.com,,,
 7739eb01-e47d-4f7a-946e-dc89703a74e2,moderately.soccer,available,19.99,,medium,low,10,name.com,,,
-909a7f75-abe8-4555-a80d-f2db5a189b4c,glad.soccer,available,19.99,,high,low,4,name.com,,,
+909a7f75-abe8-4555-a80d-f2db5a189b4c,glad.soccer,available,27.48,29.48,medium,low,4,namecheap,,,22/09/2026 18:28
 263eba45-e812-4740-9eb3-55e902bebad5,uncomplicated.soccer,available,19.99,,high,low,13,name.com,,,
 92abcc43-93da-49f4-8ecb-11d1e8df047b,filled.soccer,available,19.99,,high,low,6,name.com,,,
 25de58d2-762f-48c7-903f-5c095316ded6,keepon.soccer,available,19.99,,high,low,7,name.com,,,
@@ -440,7 +438,7 @@ aa461e53-725a-423a-b6d2-5554eadf9001,dominance.soccer,available,19.99,,medium,lo
 edd20613-ccac-447a-8f7c-39c12ee25871,adsorbate.soccer,available,19.99,37.99,low,low,9,name.com,,,
 4966f4fb-8b00-42f0-98e7-605d7fee6498,joined.soccer,available,19.99,,high,low,6,name.com,,,
 55d6e5c1-863e-4244-807e-d23b7566f309,nephew.soccer,available,19.99,,medium,low,6,name.com,,,
-e6b686cc-af5f-481e-b8e3-03bfcf6a3a83,tired.soccer,available,19.99,,medium,low,5,name.com,,,
+e6b686cc-af5f-481e-b8e3-03bfcf6a3a83,tired.soccer,available,25.99,25.99,low,low,5,namesilo,,,22/09/2026 16:41
 7100eba8-7fc4-40c1-a90f-680e76f535ab,nowfor.soccer,available,19.99,,low,low,7,name.com,,,
 d479ed88-4b29-4242-8c80-8d1fc50ab0da,froze.soccer,available,19.99,,medium,low,5,name.com,,,
 6cbb09c8-8c73-472d-b20c-aee2619964e6,ohmygod.soccer,available,19.99,,high,low,9,name.com,,,
@@ -456,7 +454,7 @@ e2403d62-7ca8-4c9e-b0f5-4b958b6c8acc,moveback.soccer,available,19.99,,high,low,9
 9a740fbe-3399-4bc0-98b9-206de5bab911,primarily.soccer,available,19.99,,medium,low,9,name.com,,,
 f42cbe8c-79e1-48f9-928b-1ee61846e987,gym.soccer,available,19.99,,high,low,3,name.com,,,
 9a3fc0f7-d478-4076-b873-7384884b4e5a,topic.soccer,available,19.99,,high,low,5,name.com,,,
-a70c93b4-9651-4251-83ed-f6c7a5f24904,adept.soccer,available,19.99,37.99,high,low,5,name.com,,,
+a70c93b4-9651-4251-83ed-f6c7a5f24904,adept.soccer,available,25.99,25.99,medium,low,5,namesilo,,,21/09/2026 17:17
 7d344423-af4e-4878-995c-17b49b640db3,those.soccer,available,19.99,,medium,low,5,name.com,,,
 d340f7b7-0fd7-4dd8-b450-ffeff83c9525,bum.soccer,available,19.99,37.99,low,low,3,name.com,,,09/08/2026 10:49
 1891f7bc-3da0-4a00-b206-4308b8951a6c,chanukah.soccer,available,19.99,,medium,low,8,name.com,,,
@@ -483,7 +481,7 @@ f3b22a18-ce06-4e14-b360-3931b7ca07ed,batup.soccer,available,19.99,,medium,low,6,
 feb988d2-95d2-408c-957f-671816b150ad,currency.soccer,available,19.99,,high,low,8,name.com,,,
 47a2d379-c08e-42ee-a7b9-25ff1814a414,heard.soccer,available,19.99,,medium,low,5,name.com,,,
 ddf78907-4284-4ed5-934a-8aa29994a531,commonguineapig.soccer,available,19.99,,medium,low,17,name.com,,,
-474f3ee1-3c45-4167-a113-bd647bd46424,later.soccer,available,19.99,37.99,high,low,5,name.com,,,
+474f3ee1-3c45-4167-a113-bd647bd46424,later.soccer,available,25.99,25.99,medium,low,5,namesilo,,,21/09/2026 22:11
 57431917-b75f-4a3a-a08b-2b69f7dbb3c0,groundstaff.soccer,available,19.99,,medium,low,12,name.com,,,
 206fb9b1-b9f5-47ca-bf64-621230ab3314,woven.soccer,available,19.99,,high,low,5,name.com,,,
 dbe72a4d-2835-4ae1-b471-89e352366c0e,arthritic.soccer,available,19.99,37.99,low,low,9,name.com,,,06/08/2026 22:54
@@ -514,11 +512,11 @@ c04b8af4-efda-4468-be8f-e446ff9b7ef5,media.soccer,available,19.99,,high,medium,5
 4bc2e181-18fe-46fa-8e16-5d6071fce9a9,diabetes.soccer,available,19.99,,medium,low,8,name.com,,,
 7b77c4ed-572b-49d1-9314-6c23625f75b7,leak.soccer,available,19.99,,medium,low,4,name.com,,,
 e823a3a9-eef1-4446-b9e3-466f0dffcc65,walloping.soccer,available,19.99,37.99,low,low,9,name.com,,,08/08/2026 13:19
-9e02adbd-9738-461b-b73c-ec4b288e5873,set.soccer,available,19.99,,high,low,3,name.com,,,
+9e02adbd-9738-461b-b73c-ec4b288e5873,set.soccer,available,19.99,37.99,medium,low,3,name.com,,,22/09/2026 19:35
 5fe1bfe1-d158-4018-a9f3-1fb1bf3817c6,blossom.soccer,available,19.99,,high,low,7,name.com,,,
 ddcbe2d2-b623-4ec9-b820-313bf728047a,paper.soccer,available,19.99,,high,low,5,name.com,,,
 5452bb0b-4bf9-4d23-b779-3825d3b041f8,collarbone.soccer,available,19.99,,medium,low,11,name.com,,,
-ff66650e-abdb-4987-9901-615e85e18ebf,accountstatement.soccer,available,19.99,,medium,low,17,name.com,,,
+ff66650e-abdb-4987-9901-615e85e18ebf,accountstatement.soccer,available,19.99,,low,low,17,name.com,,,
 3c018769-9a3e-4e4f-9257-7d2302ced97d,mouthoff.soccer,available,19.99,,low,low,9,name.com,,,
 5d201dcf-9fb1-4e9e-9554-16101814400c,timessquare.soccer,available,19.99,,low,low,12,name.com,,,
 cdfe4065-26af-4868-b978-69cd82ed72ed,ihopeimaybeshot.soccer,available,19.99,,medium,low,20,name.com,,,
@@ -532,13 +530,13 @@ bafa3be9-4ad5-4d71-b7d4-f7357af7b13c,autologous.soccer,available,19.99,37.99,low
 b674432c-c8df-4d7f-828c-6f736d9cc1b3,weeks.soccer,available,19.99,,low,low,5,name.com,,,
 78989489-5605-459c-97c5-76a42a769476,panoptic.soccer,available,19.99,37.99,low,low,8,name.com,,,
 fe2f759d-9687-4863-8676-ab39e96b79c0,philly.soccer,available,19.99,,high,low,6,name.com,,,
-5d48d3cf-008b-4e2b-9e25-ce81df5d355e,cordial.soccer,available,19.99,37.99,high,low,7,name.com,,,
+5d48d3cf-008b-4e2b-9e25-ce81df5d355e,cordial.soccer,available,27.48,29.48,medium,low,7,namecheap,,,21/09/2026 21:39
 836cc2d2-a9a3-4a7d-8d5e-07d78eb360f5,concert.soccer,available,19.99,,high,low,7,name.com,,,
 6505c995-5052-45c4-ba89-b94ffddb6376,bits.soccer,available,19.99,,medium,low,4,name.com,,,
 35c0c69c-e833-47f0-8534-03b236d3effe,balding.soccer,available,19.99,37.99,low,low,7,name.com,,,08/08/2026 09:35
 82ce0f52-c4a9-4045-951d-a10a5866bf39,sweets.soccer,available,19.99,,medium,low,6,name.com,,,
 08732f61-b8b3-4166-96ef-541f89e3dffa,iwouldratherdie.soccer,available,19.99,,medium,low,18,name.com,,,
-aa5f2ba6-b339-4b4d-96d2-5d1360614f72,dauntless.soccer,available,19.99,,medium,low,9,name.com,,,
+aa5f2ba6-b339-4b4d-96d2-5d1360614f72,dauntless.soccer,available,25.99,25.99,low,low,9,namesilo,,,22/09/2026 12:12
 700793c7-9146-419e-8844-80cbbe4adad5,slowness.soccer,available,19.99,,medium,low,8,name.com,,,
 87f31a91-b26b-45ae-bc2c-dab81786863d,inthethickofit.soccer,available,19.99,,medium,low,18,name.com,,,
 3e605e6a-5853-4f16-8532-451d0ec79002,naturally.soccer,available,19.99,,medium,low,9,name.com,,,
@@ -548,7 +546,7 @@ a783a4fe-dd6e-4b14-8e16-b7e52a2274de,jollygoodshow.soccer,available,19.99,,high,
 2cead0cd-3044-4f9c-8c4f-0e4d30ade769,ihavenomoney.soccer,available,19.99,,medium,low,15,name.com,,,
 b79254fe-8a15-455c-9d75-2c9493ac9f19,background.soccer,available,19.99,,high,low,10,name.com,,,
 9a187732-4f45-442b-83e4-9a60802017cd,cypher.soccer,available,19.99,37.99,low,medium,6,name.com,,,
-b59f9d26-fa29-4612-8f10-018d8084737a,teen.soccer,available,19.99,37.99,high,low,4,name.com,,,
+b59f9d26-fa29-4612-8f10-018d8084737a,teen.soccer,available,27.48,29.48,low,low,4,namecheap,,,21/09/2026 19:11
 26de8fe0-0d45-498a-b20f-2e8e07cd390c,treasure.soccer,available,19.99,,high,low,8,name.com,,,
 92fe7f29-c1b5-4850-a941-07484afc7c34,shall.soccer,available,19.99,,medium,low,5,name.com,,,
 14200107-d705-4cb8-9698-658f31cbfbde,treelike.soccer,available,19.99,37.99,low,low,8,name.com,,,06/08/2026 14:01
@@ -568,16 +566,16 @@ cece5381-b33a-4e23-82ae-9bb8e512cd97,dateofbirth.soccer,available,19.99,,high,lo
 40e99271-bcf2-49f2-a1d8-5714b753a88a,circular.soccer,available,19.99,,high,low,8,name.com,,,
 0f57ee54-e1ae-4c8b-bc30-327f408ec35b,jehovah.soccer,available,19.99,37.99,low,low,7,name.com,,,
 c36d0a53-821e-47e8-87fa-07ca61355f3a,aspirer.soccer,available,19.99,37.99,low,low,7,name.com,,,07/08/2026 05:12
-60f0eca8-60d2-43d0-bdc5-25a5bf23d52a,baking.soccer,available,19.99,,high,low,6,name.com,,,
+60f0eca8-60d2-43d0-bdc5-25a5bf23d52a,baking.soccer,available,27.48,29.48,medium,low,6,namecheap,,,22/09/2026 16:25
 3ad45e89-4c48-49fd-b314-a9ea172e689c,frenchrepublic.soccer,available,,,medium,low,15,,,,
 449e641c-05af-40db-9be7-69f8b068c23a,flashsale.soccer,available,19.99,,high,low,10,name.com,,,
 0639a768-5acf-4244-8ec4-947000dc68ba,irritate.soccer,available,19.99,,medium,low,8,name.com,,,
 f5798425-71a2-469b-a94e-8da5139e19c3,sold.soccer,available,19.99,,high,low,4,name.com,,,
 c96a05c7-bdc7-4a5c-ae46-21d6ca63358e,taipei.soccer,available,19.99,,high,low,6,name.com,,,
-17ee2896-2298-4271-919b-63a444e32b26,blank.soccer,available,19.99,,medium,low,5,name.com,,,
-801b001f-1fac-4a57-a533-716120a32104,accepting.soccer,available,19.99,37.99,high,low,9,name.com,,,
+17ee2896-2298-4271-919b-63a444e32b26,blank.soccer,available,27.48,29.48,low,low,5,namecheap,,,22/09/2026 21:48
+801b001f-1fac-4a57-a533-716120a32104,accepting.soccer,available,25.99,25.99,medium,low,9,namesilo,,,21/09/2026 15:33
 bb7940a1-217a-4ec5-99a0-0e24934c3e96,rile.soccer,available,19.99,,medium,low,4,name.com,,,
-92af561a-e49a-4289-bc47-cdd60a3c3dee,authorized.soccer,available,19.99,,high,low,10,name.com,,,
+92af561a-e49a-4289-bc47-cdd60a3c3dee,authorized.soccer,available,25.99,25.99,medium,low,10,namesilo,,,22/09/2026 13:48
 60bb914b-ddec-4cc8-81b5-4da3059f5e99,sacred.soccer,available,19.99,,medium,low,6,name.com,,,
 bbf6acae-2df9-41e8-986e-7e362e39c4ae,barmy.soccer,available,19.99,37.99,low,low,5,name.com,,,06/08/2026 20:25
 5ed523e1-5e2f-49f9-a8d3-d4e1e77672fe,eyewitness.soccer,available,19.99,,medium,low,10,name.com,,,
@@ -593,14 +591,14 @@ d6d629ac-3e52-42f4-b4b3-6f9b38598585,sixtytwo.soccer,available,19.99,37.99,low,l
 7e057c07-b9be-4ff1-8f75-aaa7e4670da3,postaladdress.soccer,available,19.99,,medium,low,14,name.com,,,
 c21d40ee-d1d0-4b6c-85ed-a8b7e84e13f5,newyear.soccer,available,19.99,,medium,low,8,name.com,,,
 9333f69e-2247-44df-b752-d62182a3e17a,measuring.soccer,available,19.99,,medium,low,9,name.com,,,
-cbae3ebe-7776-4ecd-bb90-248e891f1c16,ageing.soccer,available,19.99,37.99,high,low,6,name.com,,,
+cbae3ebe-7776-4ecd-bb90-248e891f1c16,ageing.soccer,available,27.48,29.48,low,low,6,namecheap,,,21/09/2026 22:43
 7f2aa732-9b22-4cf0-95ba-adac838d27ff,playonwords.soccer,available,19.99,,low,low,13,name.com,,,
-59031dc4-5951-4cdb-b5ce-6564dd1c9124,blinking.soccer,available,19.99,,high,low,8,name.com,,,
+59031dc4-5951-4cdb-b5ce-6564dd1c9124,blinking.soccer,available,27.48,29.48,medium,low,8,namecheap,,,22/09/2026 21:58
 4aae37e9-80c9-4b23-ad5b-395496c52241,hater.soccer,available,19.99,,medium,low,5,name.com,,,
 549cc386-f5a8-46dd-9425-df6694d14cee,patent.soccer,available,19.99,37.99,medium,low,6,name.com,,,06/08/2026 05:19
 1aa5a25b-fc49-4093-ba43-85647fd75bee,penandink.soccer,available,19.99,,medium,low,11,name.com,,,
 dac0e6f1-7f8d-460d-b224-3f3ce4c3d326,babelike.soccer,available,19.99,37.99,low,low,8,name.com,,,08/08/2026 03:37
-4aea17e8-0e64-4850-b146-f4b2a2870b2d,annual.soccer,available,19.99,,high,low,6,name.com,,,
+4aea17e8-0e64-4850-b146-f4b2a2870b2d,annual.soccer,available,25.99,25.99,medium,low,6,namesilo,,,22/09/2026 05:27
 cf5ae128-ee04-48fa-adfd-0cc74adad3e3,apomictic.soccer,available,19.99,37.99,low,low,9,name.com,,,
 4d377991-f85a-49c6-8b74-96447bdbf2e9,clipthewingsof.soccer,available,19.99,,high,low,17,name.com,,,
 efec2c52-2ffe-46ca-a346-94944e00b74c,pure.soccer,available,19.99,,high,medium,4,name.com,,,
@@ -613,10 +611,10 @@ eba807d6-c0f7-4337-ab48-23654284057b,day.soccer,premium,38.94,38.94,high,low,3,n
 5baa3d93-c4e1-403b-97da-ebc7d0ecc3ed,changes.soccer,available,19.99,,medium,low,7,name.com,,,
 392949bd-c5c3-48e9-b4e4-2d907d4e4f7f,wax.soccer,available,19.99,,medium,low,3,name.com,,,
 618f1a0b-76c7-4f8f-a0f8-442a3bcccb24,brush.soccer,available,19.99,,medium,low,5,name.com,,,
-8c500e09-fbf3-4823-a3b6-903757480bfa,research.soccer,available,25.99,25.99,medium,low,8,namesilo,,,20/09/2026 02:40
-4a7b575b-5fee-4227-95dc-5ea7b036c36d,antibiotic.soccer,available,19.99,,high,low,10,name.com,,,
+8c500e09-fbf3-4823-a3b6-903757480bfa,research.soccer,available,25.99,25.99,medium,low,8,namesilo,,,23/09/2026 04:11
+4a7b575b-5fee-4227-95dc-5ea7b036c36d,antibiotic.soccer,available,27.48,29.48,medium,low,10,namecheap,,,22/09/2026 06:14
 260cae0d-9771-4f61-97a7-e7b8d2ea04af,prototypic.soccer,available,19.99,37.99,low,low,10,name.com,,,06/08/2026 15:42
-4510cc6e-d34c-41de-b881-6f6cd162d303,whole.soccer,available,19.99,37.99,high,low,5,name.com,,,
+4510cc6e-d34c-41de-b881-6f6cd162d303,whole.soccer,available,27.48,29.48,medium,low,5,namecheap,,,22/09/2026 00:29
 71c406da-33c1-4ae4-94aa-c86262deae0b,spiritual.soccer,available,19.99,37.99,medium,low,9,name.com,,,06/08/2026 05:42
 0ba390ae-5e84-4523-8962-9e5c618da1e6,cumulative.soccer,available,19.99,37.99,low,low,10,name.com,,,
 1bc4fc5f-553d-463b-bb6a-e0cc83a42696,intears.soccer,available,19.99,,medium,low,8,name.com,,,
@@ -639,7 +637,7 @@ f61e3855-4125-4d8d-bf08-33dfd54db3a1,showofhands.soccer,available,19.99,,low,low
 9629726c-ae05-4b8b-b75a-a8d6d89c7752,sue.soccer,available,19.99,,high,low,3,name.com,,,
 ad9441b9-e6b0-4eae-805a-d6a0a72c3c51,spell.soccer,available,19.99,,high,low,5,name.com,,,
 4d62ec02-4e30-46a8-9853-f8b705142e26,called.soccer,available,19.99,,medium,low,6,name.com,,,
-f391c111-6e81-4a07-9190-7750b2b74d35,riveting.soccer,available,19.99,37.99,high,low,8,name.com,,,
+f391c111-6e81-4a07-9190-7750b2b74d35,riveting.soccer,available,25.99,25.99,medium,low,8,namesilo,,,21/09/2026 15:09
 80184d53-3b17-4a7a-87cf-fb66e3364889,detailing.soccer,available,19.99,,medium,low,9,name.com,,,
 17693242-a23e-4069-a57a-a507f9b3464d,happening.soccer,available,19.99,,high,low,9,name.com,,,
 c8bcd135-f89e-493c-a1b8-9a2d05cf53a6,spray.soccer,available,19.99,,high,low,5,name.com,,,
@@ -654,8 +652,8 @@ fe0681f6-f62d-4bc2-9297-04263ac7c50c,poolside.soccer,available,19.99,,high,low,8
 4f9dac59-168d-4c50-bd34-d5d77bb785e6,cameraman.soccer,available,19.99,,high,low,9,name.com,,,
 8d09da24-7943-4efc-914e-5c3472ed2acc,discrepant.soccer,available,19.99,37.99,low,low,10,name.com,,,07/08/2026 12:21
 4016dfd1-c37a-499d-a5d9-4a9a1d2b0067,springshower.soccer,available,19.99,,low,low,13,name.com,,,
-ba57e079-27f5-4fa1-a7c7-734bf15f84e3,norm.soccer,available,19.99,,high,low,4,name.com,,,
-cdc6e2af-15db-4bf5-a61e-1dce08b87402,gold.soccer,resell,,,high,medium,4,"Spaceship, Inc.",05/07/2022 23:58,05/07/2027 23:58,17/09/2026 17:25
+ba57e079-27f5-4fa1-a7c7-734bf15f84e3,norm.soccer,available,25.99,25.99,medium,low,4,namesilo,,,22/09/2026 14:30
+cdc6e2af-15db-4bf5-a61e-1dce08b87402,gold.soccer,resell,,,low,low,4,"Spaceship, Inc.",05/07/2022 23:58,05/07/2027 23:58,22/09/2026 03:56
 5f077aee-e7c5-4175-ae7e-43b61c4469f1,northandsouth.soccer,available,19.99,,medium,low,15,name.com,,,
 2d42c821-aed1-4a27-bb1c-4a86c1548ce6,australia.soccer,available,,,medium,low,9,,,,
 7418e6d6-0f3c-4f4e-958f-c133d0b67b0d,farmstand.soccer,available,19.99,,high,low,10,name.com,,,
@@ -684,7 +682,7 @@ dfb1f033-0b5c-4ce8-aca3-a754c47ca59c,yes.soccer,premium,242,242,high,medium,3,na
 e0148ead-dd8c-4bba-8126-9d42e1cba0a5,helmethair.soccer,available,19.99,,medium,low,11,name.com,,,
 698e9e1a-ff53-4387-a234-d5350a20df94,eliza.soccer,available,19.99,,high,low,5,name.com,,,
 9eb13894-4aa4-4c2b-9840-51bfdef435f1,alated.soccer,available,19.99,37.99,low,low,6,name.com,,,
-25c99d58-8363-4916-a531-f7fc219bc8a7,damn.soccer,available,19.99,37.99,high,low,4,name.com,,,
+25c99d58-8363-4916-a531-f7fc219bc8a7,damn.soccer,available,27.48,29.48,medium,low,4,namecheap,,,22/09/2026 00:35
 74ed9a77-6f40-42c0-824e-2c9ad1af7c0f,kick.soccer,available,,,high,low,4,,,,
 ee947956-b95d-49eb-9455-d1eadda3c597,gstring.soccer,available,19.99,,medium,low,8,name.com,,,
 2c93da03-2667-466f-8473-0325b35f371b,tourist.soccer,available,19.99,,high,low,7,name.com,,,
@@ -694,7 +692,7 @@ d776b944-f7e3-4a23-9c1b-0ad09e9091f1,cockeyed.soccer,available,19.99,37.99,low,l
 6c6ba206-2982-4db5-965e-4fd9a2487b8d,gail.soccer,available,19.99,,medium,low,4,name.com,,,
 360dc6a8-7692-4442-918d-7c8b3d31902d,confident.soccer,available,19.99,37.99,high,low,9,name.com,,,
 afff2f04-5c8c-4abc-bec1-a7dc165cc865,moneylaundering.soccer,available,19.99,,medium,low,16,name.com,,,
-a4e0b2c8-05bb-4a9a-9cea-c83e823b4147,adjustable.soccer,available,19.99,37.99,high,low,10,name.com,,,
+a4e0b2c8-05bb-4a9a-9cea-c83e823b4147,adjustable.soccer,available,27.48,29.48,medium,low,10,namecheap,,,21/09/2026 18:40
 0d204df9-cb2d-4b90-8b19-284c95c80b28,aurorean.soccer,available,19.99,37.99,low,low,8,name.com,,,07/08/2026 18:12
 d274ddf3-bddd-4d44-b378-5667a929b993,jay.soccer,available,19.99,,medium,low,3,name.com,,,
 e48aa356-b974-4759-ab76-67991637fab3,giveme.soccer,available,19.99,,high,low,7,name.com,,,
@@ -705,11 +703,11 @@ d8a94d44-9a6a-45b0-b8ed-efd7316e8f3a,either.soccer,available,19.99,,high,low,6,n
 a0cb0303-7362-49f5-9c06-db7623f5d308,comeright.soccer,available,19.99,,high,low,10,name.com,,,
 d7d7e7db-7da1-4f88-a090-874c58168ed9,curious.soccer,available,19.99,37.99,high,low,7,name.com,,,
 6a62bc0a-dc06-45c0-adb6-ad4325bba0d4,threescore.soccer,available,19.99,37.99,low,low,10,name.com,,,
-a6dc51dc-3b3b-44a8-8288-8991106de59a,prank.soccer,available,19.99,,high,low,5,name.com,,,
+a6dc51dc-3b3b-44a8-8288-8991106de59a,prank.soccer,available,27.48,29.48,medium,low,5,namecheap,,,22/09/2026 06:23
 a6288b26-7b77-41ec-9821-0e7943b5fd4f,enthralled.soccer,available,19.99,37.99,low,low,10,name.com,,,09/08/2026 10:06
 93d35616-c0b4-4050-8f1a-0d08437683ed,canadas.soccer,available,19.99,,medium,low,7,name.com,,,
 3afbff34-159e-4876-9183-506da45b9991,nicky.soccer,available,19.99,,medium,low,5,name.com,,,
-4fc729d5-b272-4fde-975d-ddb63dd519e3,investment.soccer,available,25.99,25.99,medium,low,10,namesilo,,,19/09/2026 04:38
+4fc729d5-b272-4fde-975d-ddb63dd519e3,investment.soccer,available,25.99,25.99,medium,low,10,namesilo,,,23/09/2026 02:53
 a9de8799-4b04-4586-b332-c6e3b623ef51,wondered.soccer,available,19.99,,medium,low,8,name.com,,,
 6154c36f-076a-48b5-95c0-ce7c9e42b229,acidic.soccer,available,19.99,37.99,low,low,6,name.com,,,
 47c7c4e8-ad39-4d4d-ab3c-58329abdec8b,chill.soccer,available,19.99,37.99,high,low,5,name.com,,,
@@ -721,13 +719,13 @@ c215008d-3a96-4a35-a572-23b22ec25758,ugly.soccer,available,19.99,37.99,high,low,
 b7e4823a-7889-4707-8050-97d3da47b523,lavaliermicrophone.soccer,available,19.99,,high,low,19,name.com,,,
 77b14c2a-9cd7-4480-b994-ca19035f037a,piston.soccer,available,19.99,,medium,low,6,name.com,,,
 48259b0a-5b3a-41ba-8c8b-2781fc1ed85c,animal.soccer,available,19.99,37.99,medium,low,6,name.com,,,08/09/2026 11:39
-cf3e56b1-5096-4d70-93c8-aa7a05eb8165,bizarre.soccer,available,19.99,,high,low,7,name.com,,,
-55d772d6-7e40-48d3-a4e2-2b73d553e7c9,angelical.soccer,available,19.99,,medium,low,9,name.com,,,
+cf3e56b1-5096-4d70-93c8-aa7a05eb8165,bizarre.soccer,available,27.48,29.48,medium,low,7,namecheap,,,22/09/2026 21:11
+55d772d6-7e40-48d3-a4e2-2b73d553e7c9,angelical.soccer,available,25.99,25.99,low,low,9,namesilo,,,22/09/2026 04:27
 99f299c2-7717-4545-87f4-93857629662f,anginose.soccer,available,19.99,37.99,low,low,8,name.com,,,
 29e0d82b-e808-48c6-a5ea-b6e1986de3ba,ideally.soccer,available,19.99,,medium,low,7,name.com,,,
 6326bac1-78e7-4969-92c2-76165c77b70a,takeonboard.soccer,available,19.99,,medium,low,13,name.com,,,
 d029f37b-e39f-4e82-8412-ead43674c135,passalong.soccer,available,19.99,,high,low,10,name.com,,,
-7f597dcf-3bd9-4c20-b980-09e6d393151a,artistic.soccer,available,19.99,,high,low,8,name.com,,,
+7f597dcf-3bd9-4c20-b980-09e6d393151a,artistic.soccer,available,25.99,25.99,medium,low,8,namesilo,,,22/09/2026 09:09
 648b1743-6813-43dd-a4e6-d9cf6898185e,limited.soccer,available,19.99,,high,low,7,name.com,,,
 cb711ed9-09c8-438a-b5ff-ac9122e51f45,previously.soccer,available,19.99,,medium,low,10,name.com,,,
 15601425-a1c4-4f31-ae94-7190beea8be4,halfassed.soccer,available,19.99,,medium,low,10,name.com,,,
@@ -744,12 +742,12 @@ a770c2ec-dff3-40c8-8fcc-1a4db67be9c7,superbly.soccer,available,19.99,,medium,low
 3fb07f8d-396e-4e61-a048-f6bad274090f,blessing.soccer,available,19.99,37.99,low,low,8,name.com,,,06/08/2026 09:29
 c13c44ac-28f4-4631-9fff-190b9b1445c4,unbearable.soccer,available,19.99,,medium,low,10,name.com,,,
 6f8c2f16-18e1-4b77-bd12-3e6372e0f9a7,seventh.soccer,available,19.99,37.99,low,low,7,name.com,,,
-95dea0f9-8e5e-417e-9e58-e50a75b8c4ed,armored.soccer,available,19.99,,medium,low,7,name.com,,,
+95dea0f9-8e5e-417e-9e58-e50a75b8c4ed,armored.soccer,available,25.99,25.99,low,low,7,namesilo,,,22/09/2026 08:00
 79ac4c48-7313-45b7-9df5-922e5aa6cef4,profess.soccer,available,19.99,,high,low,7,name.com,,,
 2f59317a-f099-4839-9de8-ca915d310ed2,pyramid.soccer,available,25.99,25.99,medium,low,7,namesilo,,,08/09/2026 13:53
 3fe4fff1-65ea-48ba-b862-2457d544c931,nana.soccer,available,19.99,,high,low,4,name.com,,,
-71f90d04-9d93-46ef-b990-52f67d972f26,wing.soccer,available,19.99,,medium,low,4,name.com,,,
-09eb3bc1-45dd-4f09-a997-81198a15372a,abomb.soccer,available,19.99,,high,low,6,name.com,,,
+71f90d04-9d93-46ef-b990-52f67d972f26,wing.soccer,available,25.99,25.99,low,low,4,namesilo,,,22/09/2026 15:49
+09eb3bc1-45dd-4f09-a997-81198a15372a,abomb.soccer,available,19.99,,medium,low,6,name.com,,,
 606c1308-6428-4251-aa55-a90ceb7f3a17,rooms.soccer,available,19.99,,high,low,5,name.com,,,
 eb2164e3-66d7-4158-b321-d45ada371571,alkaloidal.soccer,available,19.99,37.99,low,low,10,name.com,,,
 a50f4266-25e5-4c8f-b1a6-5a58ce2d4417,connection.soccer,available,19.99,,medium,low,10,name.com,,,
@@ -757,7 +755,7 @@ a50f4266-25e5-4c8f-b1a6-5a58ce2d4417,connection.soccer,available,19.99,,medium,l
 1b3cf485-7a11-429c-bc7f-4896eae5e57a,hereditary.soccer,available,19.99,37.99,low,low,10,name.com,,,
 ff3ac18a-6156-4b3f-bc80-3aceb05ee6ef,necessarily.soccer,available,19.99,,medium,low,11,name.com,,,
 1771f1c7-0540-4242-8553-dc350230717a,funds.soccer,available,19.99,,high,low,5,name.com,,,
-6043ac5d-938f-4d05-a3e2-fa33fecf47dc,severe.soccer,available,19.99,,medium,low,6,name.com,,,
+6043ac5d-938f-4d05-a3e2-fa33fecf47dc,severe.soccer,available,25.99,25.99,low,low,6,namesilo,,,22/09/2026 13:18
 85c86c08-77b0-44c4-8378-a52ea056b95d,hightide.soccer,available,19.99,,medium,low,9,name.com,,,
 265d28c6-4dbb-471f-9f8a-2b89bf2c80e4,cheesepizza.soccer,available,19.99,,high,low,12,name.com,,,
 3ad50187-d3f7-413a-89c7-19ba3da21067,metal.soccer,available,19.99,,high,low,5,name.com,,,
@@ -765,7 +763,7 @@ b5531852-b131-4013-9ee0-3e7e55bbf858,microphone.soccer,available,19.99,,high,low
 d92e0cab-d0d6-42a5-be66-8735cfd98195,beneath.soccer,available,19.99,,medium,low,7,name.com,,,
 045553e5-acc5-435f-8168-449c4e1e2f58,marriage.soccer,available,19.99,,high,low,8,name.com,,,
 25f0835e-b824-40bb-8f86-8ee9f0ff91bd,slanted.soccer,available,19.99,37.99,low,low,7,name.com,,,07/08/2026 04:15
-e9c998eb-6cf1-40e5-9fae-9a3a1d99ebb5,affluent.soccer,available,19.99,37.99,high,low,8,name.com,,,
+e9c998eb-6cf1-40e5-9fae-9a3a1d99ebb5,affluent.soccer,available,25.99,25.99,medium,low,8,namesilo,,,21/09/2026 21:54
 08cd36e5-c366-4f7f-b703-60f33c502e7c,pissedoff.soccer,available,19.99,37.99,low,low,10,name.com,,,
 aa24698b-3e4f-44df-ac1a-0caf874c98b9,destroyed.soccer,available,19.99,37.99,medium,low,9,name.com,,,
 c2bd3204-b0b8-4520-88b8-d5ebba62b05e,havethetime.soccer,available,19.99,,high,low,13,name.com,,,
@@ -794,7 +792,7 @@ d4b2f7af-faa8-44ed-b6d5-1ae62b182f4b,silotruck.soccer,available,19.99,,medium,lo
 b8690917-ba86-428a-b8e0-53d82edfee3d,fourscore.soccer,available,19.99,37.99,low,low,9,name.com,,,
 b22366d6-04b3-472a-9e2e-b50f14803ca1,fate.soccer,available,19.99,,medium,low,4,name.com,,,
 13107d69-5d49-49c9-a547-8c267570cb67,claimform.soccer,available,19.99,,medium,low,10,name.com,,,
-e7e342f8-09ed-4507-89a4-56e2902d00f9,aseptic.soccer,available,19.99,,high,low,7,name.com,,,
+e7e342f8-09ed-4507-89a4-56e2902d00f9,aseptic.soccer,available,25.99,25.99,low,low,7,namesilo,,,22/09/2026 09:33
 ca2f9ca3-149b-49e3-918f-4df52e6edb44,ricepaper.soccer,available,19.99,,medium,low,10,name.com,,,
 c915ad42-00c9-46b5-a1bd-365fdac19f7e,briery.soccer,available,19.99,37.99,low,low,6,name.com,,,08/08/2026 17:07
 7f52956f-fcac-4215-92e5-f4d79f7747a4,drivehome.soccer,available,19.99,,high,low,10,name.com,,,
@@ -849,15 +847,15 @@ b70d27ea-cdd3-419c-92d3-24422a123e9e,kidney.soccer,available,19.99,,medium,low,6
 ef59adac-6cd1-42a9-92bf-96b99e48da27,adust.soccer,available,19.99,37.99,low,low,5,name.com,,,
 474a85bd-8a33-441b-b653-ef02ea44b891,realtime.soccer,available,19.99,,high,low,9,name.com,,,
 8aeadcd2-4140-41e9-b2c3-da56107951b7,status.soccer,available,19.99,,high,medium,6,name.com,,,
-33b8e3e3-25d7-4e71-a969-32d0b18f2968,bearing.soccer,available,19.99,,high,low,7,name.com,,,
+33b8e3e3-25d7-4e71-a969-32d0b18f2968,bearing.soccer,available,27.48,29.48,medium,low,7,namecheap,,,22/09/2026 18:34
 58902e6f-d356-4e2f-8348-6e09b9b21a6a,callcenter.soccer,available,19.99,,medium,low,11,name.com,,,
 08d0627f-ecc6-42b1-b807-4d86c20c787c,asoneman.soccer,available,19.99,,medium,low,10,name.com,,,
-e2791fdb-7489-49f1-b483-9ee6dd3103a7,blonde.soccer,available,19.99,,high,low,6,name.com,,,
+e2791fdb-7489-49f1-b483-9ee6dd3103a7,blonde.soccer,available,25.99,25.99,medium,low,6,namesilo,,,22/09/2026 22:17
 e0fdd791-01b5-4ee4-9c00-e5946ac76e30,fell.soccer,available,19.99,37.99,low,low,4,name.com,,,08/08/2026 15:49
 00f299df-a52d-48bc-a48b-d79cadc2856f,affect.soccer,available,19.99,,high,low,6,name.com,,,
 35494442-3670-48ef-8517-af32853a893e,buirdly.soccer,available,19.99,37.99,low,low,7,name.com,,,09/08/2026 08:07
 d1a75248-e2f9-4c85-9020-d35d0d90faaa,ricemilk.soccer,available,19.99,,low,low,9,name.com,,,
-a00c8f15-a738-4035-89b5-759d13f14e69,backtooth.soccer,available,19.99,,medium,low,10,name.com,,,
+a00c8f15-a738-4035-89b5-759d13f14e69,backtooth.soccer,available,25.99,25.99,low,low,10,namesilo,,,21/09/2026 14:54
 6cb6b9c1-33ac-4acb-ab49-c4d26da5fd46,inthethickof.soccer,available,19.99,,medium,low,15,name.com,,,
 fb056aac-ec18-4ab3-9787-b68e0a498ba6,feet.soccer,available,19.99,,high,low,4,name.com,,,
 ca838b04-28d4-43a5-90ba-73767ab7e2da,aft.soccer,available,19.99,37.99,low,low,3,name.com,,,
@@ -877,8 +875,8 @@ cb83bbc9-6e6e-433c-a47f-ba7adde18c5d,phase.soccer,available,19.99,,high,low,5,na
 4ad5bd65-50e7-4f42-9f2c-17d93a8db95f,yourstruly.soccer,available,19.99,,medium,low,11,name.com,,,
 577e849a-0ecb-4ac1-b74a-7dcb638bfc93,flags.soccer,available,19.99,,medium,low,5,name.com,,,
 490993ea-5147-4c9d-85c3-ccc52ae873c0,lasting.soccer,available,19.99,37.99,high,low,7,name.com,,,
-863fbda0-0a4d-4e7e-9868-118ee8908377,cake.soccer,available,19.99,,high,low,4,name.com,,,
-556dfc36-07e6-4de6-9c92-609ec7620881,deceased.soccer,available,19.99,,medium,low,8,name.com,,,
+863fbda0-0a4d-4e7e-9868-118ee8908377,cake.soccer,available,27.48,29.48,medium,low,4,namecheap,,,23/09/2026 06:16
+556dfc36-07e6-4de6-9c92-609ec7620881,deceased.soccer,available,27.48,29.48,low,low,8,namecheap,,,22/09/2026 10:44
 d0d6d50e-a634-480a-8659-52a1b34a4bf3,scene.soccer,available,19.99,,high,low,5,name.com,,,
 45b0213a-8c75-4cd8-82f8-9c1c9a28ac85,albinic.soccer,available,19.99,37.99,low,low,7,name.com,,,
 a5843531-8d2a-44c3-b7bc-30961e2bb970,subjectmatter.soccer,available,19.99,,low,low,14,name.com,,,
@@ -893,7 +891,7 @@ c2f98d67-39b6-4f49-a90d-b16245d5c5e5,variety.soccer,available,19.99,,high,low,7,
 1619b75e-2aa6-4f72-9977-f70b8a51994b,reproving.soccer,available,19.99,37.99,low,low,9,name.com,,,
 1ecae1d7-04be-4f2f-9091-14b661bf9932,pulled.soccer,available,19.99,,low,low,6,name.com,,,
 f46516dd-400d-4eea-a769-792cc8059981,beaded.soccer,available,19.99,37.99,low,low,6,name.com,,,09/08/2026 03:18
-8a8df1c9-b3c0-484c-a109-38de172aa7e1,teenager.soccer,available,19.99,37.99,medium,low,8,name.com,,,
+8a8df1c9-b3c0-484c-a109-38de172aa7e1,teenager.soccer,available,19.99,37.99,low,low,8,name.com,,,21/09/2026 19:08
 6385edd5-3587-464e-ac6f-40695cb63dba,xlii.soccer,available,19.99,37.99,low,low,4,name.com,,,
 8c195704-0000-43a3-8b14-64ec60011fec,allnighter.soccer,available,19.99,,medium,low,11,name.com,,,
 d320f093-b67f-449d-a397-adeab114ee50,aneurismal.soccer,available,19.99,37.99,low,low,10,name.com,,,
@@ -905,7 +903,7 @@ d320f093-b67f-449d-a397-adeab114ee50,aneurismal.soccer,available,19.99,37.99,low
 1ef8250d-3c0f-48e0-8dd8-7358f51c0e49,similarly.soccer,available,19.99,,medium,low,9,name.com,,,
 5c3c4733-f4a5-4226-a797-076920efb8da,purpose.soccer,available,19.99,,high,low,7,name.com,,,
 8f575dc5-37f9-4df1-ac2a-3ff974c8aedb,quality.soccer,available,19.99,,high,low,7,name.com,,,
-9e8d57cd-51c1-4422-b134-452f4c29fd54,accredited.soccer,available,19.99,37.99,medium,low,10,name.com,,,
+9e8d57cd-51c1-4422-b134-452f4c29fd54,accredited.soccer,available,25.99,25.99,low,low,10,namesilo,,,21/09/2026 15:54
 19fa5630-ead8-4c6c-a705-217471e79d28,trine.soccer,available,19.99,37.99,low,low,5,name.com,,,
 ada94abe-59bb-4e50-b7e7-41df16a2a24f,profession.soccer,available,19.99,,high,low,10,name.com,,,
 e4456ca8-b3ae-489e-bdd1-632a6b0fc856,anytime.soccer,available,19.99,,high,low,7,name.com,,,
@@ -955,7 +953,7 @@ ff783953-4d86-4aaf-9ee3-d8cbce3e7ed8,rheumy.soccer,available,19.99,37.99,low,low
 23fd1bf0-4bf3-426d-a607-7e9b56fe0007,cowboy.soccer,available,19.99,,high,low,6,name.com,,,
 0c0641dd-3d37-4719-a979-bd70998bb40f,astimegoesby.soccer,available,19.99,,medium,low,15,name.com,,,
 ea88ddb2-c05f-44f4-996b-52d24f09a49e,kicking.soccer,available,19.99,,high,low,7,name.com,,,
-2d56badd-cb1b-4856-b7fc-c13eda320c7e,bacterial.soccer,available,19.99,,medium,low,9,name.com,,,
+2d56badd-cb1b-4856-b7fc-c13eda320c7e,bacterial.soccer,available,27.48,29.48,low,low,9,namecheap,,,22/09/2026 16:00
 4f51925a-4669-4acf-a14b-386c553c9142,cornered.soccer,available,19.99,37.99,low,low,8,name.com,,,07/08/2026 11:02
 70b9471c-dbd0-4cb3-9e51-6224364fcb6a,rulesisrules.soccer,available,19.99,,medium,low,14,name.com,,,
 fe1c066a-440a-4d6c-898e-3d38ac0dc1d5,baggage.soccer,available,19.99,,high,low,7,name.com,,,
@@ -964,7 +962,7 @@ fe1c066a-440a-4d6c-898e-3d38ac0dc1d5,baggage.soccer,available,19.99,,high,low,7,
 309ad0b9-8b12-4698-96b3-f30f376ec594,builder.soccer,available,19.99,,high,low,7,name.com,,,
 29c37947-0d4c-4347-826b-03ef85664ba7,nerd.soccer,available,19.99,,high,medium,4,name.com,,,
 13f0b5eb-76d1-4a53-9920-e02fd57aed92,veg.soccer,available,19.99,,high,low,3,name.com,,,
-bb8333f2-3f4e-41af-8624-775e331f24fd,twelve.soccer,available,19.99,37.99,high,low,6,name.com,,,
+bb8333f2-3f4e-41af-8624-775e331f24fd,twelve.soccer,available,25.99,25.99,medium,low,6,namesilo,,,21/09/2026 11:23
 d5220f0f-7e75-4069-93fa-89376210f3e7,smaller.soccer,available,19.99,,medium,low,7,name.com,,,
 b21a47df-dc20-42ae-9a16-562cda67ff52,studiocity.soccer,available,19.99,,low,low,11,name.com,,,
 0762e74f-6427-408f-a291-57fbcd1ffa1b,nutty.soccer,available,19.99,37.99,low,low,5,name.com,,,06/08/2026 21:27
@@ -980,22 +978,24 @@ ad250ae0-c037-4603-af8c-e2b443ebabd5,fruity.soccer,available,19.99,37.99,medium,
 859decc7-dc72-4e90-a0b1-c2835282d2bd,anarchic.soccer,available,19.99,37.99,low,low,8,name.com,,,
 0e987863-17c7-4d4a-abc2-1d35dd4e5895,prone.soccer,available,19.99,,medium,low,5,name.com,,,
 c2932fb5-7f81-4957-971a-1eb96a220ce6,smoke.soccer,available,19.99,,high,low,5,name.com,,,
-3c71a0cc-1f5a-4c78-b04b-3d42d9495bac,great.soccer,available,19.99,,high,low,5,name.com,,,
+3c71a0cc-1f5a-4c78-b04b-3d42d9495bac,great.soccer,available,25.99,25.99,medium,low,5,namesilo,,,22/09/2026 16:53
 21d43bb4-898e-4a92-9556-e9f68ec0a5b2,miffed.soccer,available,19.99,37.99,low,low,6,name.com,,,
 3c0a8792-c11e-4c2a-bac0-7dddb8bde66d,asternal.soccer,available,19.99,37.99,low,low,8,name.com,,,07/08/2026 09:06
 50971035-6d5d-4890-9be0-330efe2466a6,customer.soccer,available,19.99,,high,low,8,name.com,,,
 41c795e5-282e-4381-9f08-f85bfffe7058,aphaeretic.soccer,available,19.99,37.99,low,low,10,name.com,,,05/08/2026 22:45
 47507fbe-b0a8-452e-a87f-ea3e1767eca1,proficiency.soccer,available,19.99,,medium,low,11,name.com,,,
 d7899698-5359-4aab-bcd1-0c7e9bb35c38,swift.soccer,available,,,medium,low,5,,,,
-059c4c93-f543-40d9-8e3b-b79320f728c2,progress.soccer,available,19.99,37.99,high,low,8,name.com,,,
+059c4c93-f543-40d9-8e3b-b79320f728c2,progress.soccer,available,27.48,29.48,medium,low,8,namecheap,,,21/09/2026 20:19
 87e6bdcd-e43f-4cf5-a0b5-1f67d847b382,ideal.soccer,available,19.99,,high,low,5,name.com,,,
 65fd1d14-0e89-4ad5-bc5d-5e8bfa51313b,barefooted.soccer,available,19.99,37.99,low,low,10,name.com,,,08/08/2026 18:59
 83caa151-b9f0-4cb2-9a4f-80386009b96b,bugged.soccer,available,19.99,,medium,low,6,name.com,,,
 1df8c3cd-3607-47e0-8f7d-b0eb4b264ca0,granola.soccer,available,19.99,,high,low,7,name.com,,,
 99192160-e4e1-457e-aecc-9924d362b164,fireengine.soccer,available,19.99,,high,low,11,name.com,,,
 b6afe71e-fa7d-475e-bf5a-e438e55a638e,stpauls.soccer,available,19.99,,medium,low,8,name.com,,,
-e1caf503-6868-409e-b02a-b31084089e69,wizard.soccer,available,19.99,37.99,high,medium,6,name.com,,,
+e1caf503-6868-409e-b02a-b31084089e69,wizard.soccer,available,27.48,29.48,medium,low,6,namecheap,,,21/09/2026 18:11
 fa700de0-1e39-40bd-ae0a-259fc2b9f495,heat.soccer,available,19.99,,high,low,4,name.com,,,
 045db8fd-2f54-47ff-8135-300e18c45bb6,thread.soccer,available,19.99,,high,low,6,name.com,,,
 d197d383-e298-4512-98eb-d623b8266c8a,invariably.soccer,available,19.99,,medium,low,10,name.com,,,
 5b9440b7-fdde-46c2-a99a-49299a8bc612,bannerad.soccer,available,19.99,,high,low,9,name.com,,,
+6846e3e2-5d74-4887-b99c-2d57420e9d8b,grin.soccer,available,19.99,,high,low,4,name.com,,,
+7c3c089c-2c0f-4c36-a052-a5564d94abfb,bargain.soccer,available,19.99,,high,low,7,name.com,,,
