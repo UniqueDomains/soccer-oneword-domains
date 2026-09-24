@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .soccer one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,724 domains · **Median ask:** $23.27 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/soccer`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| yes.soccer        | premium   | $242      | $242          | high           | medium | 3      | namesilo         |
-| ada.soccer        | available | $19.99    | —             | medium         | medium | 3      | name.com         |
-| one.soccer        | resell    | —         | —             | medium         | low    | 3      | Porkbun LLC      |
-| ads.soccer        | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo         |
-| aft.soccer        | available | $19.99    | $37.99        | low            | low    | 3      | name.com         |
-| gold.soccer       | resell    | —         | —             | low            | low    | 4      | Spaceship, Inc.  |
-| air.soccer        | premium   | $242      | $242          | medium         | low    | 3      | namesilo         |
-| ann.soccer        | available | $19.99    | —             | high           | low    | 3      | name.com         |
-| wake.soccer       | resell    | —         | —             | low            | low    | 4      | GoDaddy.com, LLC |
-| day.soccer        | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo         |
-| atp.soccer        | available | $19.99    | —             | medium         | low    | 3      | name.com         |
-| drone.soccer      | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC |
-| law.soccer        | premium   | $42.90    | $42.90        | high           | medium | 3      | namecheap        |
-| bce.soccer        | available | $19.99    | —             | medium         | low    | 3      | name.com         |
-| consulting.soccer | resell    | —         | —             | high           | low    | 10     | OVH SAS          |
-| org.soccer        | premium   | $500      | —             | medium         | medium | 3      | name.com         |
-| bio.soccer        | available | $19.99    | —             | high           | medium | 3      | name.com         |
-| bud.soccer        | available | $19.99    | —             | high           | low    | 3      | name.com         |
-| england.soccer    | premium   | $78.54    | $78.54        | high           | low    | 7      | namesilo         |
-| bum.soccer        | available | $19.99    | $37.99        | low            | low    | 3      | name.com         |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| ada.soccer        | available | $19.99    | —             | medium         | medium | 3      | name.com          |
+| one.soccer        | resell    | —         | —             | medium         | low    | 3      | Porkbun LLC       |
+| ads.soccer        | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo          |
+| aft.soccer        | available | $19.99    | $37.99        | low            | low    | 3      | name.com          |
+| gold.soccer       | resell    | —         | —             | low            | low    | 4      | Spaceship, Inc.   |
+| air.soccer        | premium   | $242      | $242          | medium         | low    | 3      | namesilo          |
+| ann.soccer        | available | $19.99    | —             | high           | low    | 3      | name.com          |
+| wake.soccer       | resell    | —         | —             | low            | low    | 4      | GoDaddy.com, LLC  |
+| day.soccer        | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo          |
+| atp.soccer        | available | $19.99    | —             | medium         | low    | 3      | name.com          |
+| drone.soccer      | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC  |
+| law.soccer        | premium   | $42.90    | $42.90        | high           | medium | 3      | namecheap         |
+| bce.soccer        | available | $19.99    | —             | medium         | low    | 3      | name.com          |
+| streaming.soccer  | resell    | —         | —             | medium         | low    | 9      | Sav.com, LLC - 35 |
+| org.soccer        | premium   | $500      | —             | medium         | medium | 3      | name.com          |
+| bio.soccer        | available | $19.99    | —             | high           | medium | 3      | name.com          |
+| consulting.soccer | resell    | —         | —             | high           | low    | 10     | OVH SAS           |
+| yes.soccer        | premium   | $242      | $242          | high           | medium | 3      | namesilo          |
+| bud.soccer        | available | $19.99    | —             | high           | low    | 3      | name.com          |
+| england.soccer    | premium   | $78.54    | $78.54        | high           | low    | 7      | namesilo          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SOCCER One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SOCCER One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
