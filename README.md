@@ -1,10 +1,10 @@
-# Available .SOCCER One-Word Domains (23,982)
+# Available .SOCCER One-Word Domains (24,553)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C982%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C553%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .soccer one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,982 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,553 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,982 domains · **Median ask:** $24.27 · **High-demand under $2,500:** 6
+**Public extract:** 1,000 rows · **Live catalog:** 24,553 domains · **Median ask:** $24.18 · **High-demand under $2,500:** 6
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/soccer`
@@ -67,6 +67,8 @@ print(df.head())
 | apr.soccer  | available | $25.99    | $25.99        | high           | low    | 3      | namesilo                                    |
 | just.soccer | resell    | —         | —             | high           | medium | 4      | GoDaddy Online Services Cayman Islands Ltd. |
 | dad.soccer  | premium   | $85.80    | $85.80        | high           | low    | 3      | namecheap                                   |
+| ari.soccer  | available | $25.99    | $25.99        | high           | medium | 3      | namesilo                                    |
+| psa.soccer  | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                    |
 | bio.soccer  | available | $19.99    | —             | high           | medium | 3      | name.com                                    |
 | yes.soccer  | premium   | $242      | $242          | high           | medium | 3      | namesilo                                    |
 | bns.soccer  | available | $25.99    | $25.99        | high           | low    | 3      | namesilo                                    |
@@ -78,12 +80,10 @@ print(df.head())
 | cxl.soccer  | available | $19.99    | $37.99        | high           | low    | 3      | name.com                                    |
 | egg.soccer  | available | $19.99    | —             | high           | low    | 3      | name.com                                    |
 | fag.soccer  | available | $25.99    | $25.99        | high           | low    | 3      | namesilo                                    |
+| gpa.soccer  | available | $20.90    | $20.90        | high           | low    | 3      | spaceship                                   |
 | jem.soccer  | available | $25.99    | $25.99        | high           | low    | 3      | namesilo                                    |
 | khz.soccer  | available | $25.99    | $25.99        | high           | low    | 3      | namesilo                                    |
-| low.soccer  | available | $25.99    | $25.99        | high           | low    | 3      | namesilo                                    |
-| lxv.soccer  | available | $19.99    | $37.99        | medium         | low    | 3      | name.com                                    |
-| mix.soccer  | available | $25.99    | $25.99        | high           | medium | 3      | namesilo                                    |
-| mla.soccer  | available | $20.90    | $20.90        | high           | low    | 3      | spaceship                                   |
+| kwh.soccer  | available | $10.81    | $21.11        | medium         | low    | 3      | porkbun                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,982 live domains                        |
+| 1,000-row public sample | 24,553 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 6 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
