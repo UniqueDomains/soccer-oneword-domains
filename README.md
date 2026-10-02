@@ -1,10 +1,10 @@
-# Available .SOCCER One-Word Domains (31,261)
+# Available .SOCCER One-Word Domains (32,839)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C261%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C839%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .soccer one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,261 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **32,839 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,261 domains · **Median ask:** $23.78 · **High-demand under $2,500:** 5
+**Public extract:** 1,000 rows · **Live catalog:** 32,839 domains · **Median ask:** $23.71 · **High-demand under $2,500:** 5
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/soccer`
 **Best for:** founders, investors, studios
 
@@ -67,23 +67,23 @@ print(df.head())
 | adi.soccer       | available | $20.90    | $20.90        | high           | low    | 3      | spaceship                                   |
 | just.soccer      | resell    | —         | —             | high           | medium | 4      | GoDaddy Online Services Cayman Islands Ltd. |
 | dad.soccer       | premium   | $85.80    | $85.80        | high           | low    | 3      | namecheap                                   |
-| apr.soccer       | available | $25.99    | $25.99        | high           | low    | 3      | namesilo                                    |
-| psa.soccer       | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                    |
-| bio.soccer       | available | $25.99    | $25.99        | high           | medium | 3      | namesilo                                    |
-| rus.soccer       | premium   | $34.36    | $34.36        | high           | low    | 3      | spaceship                                   |
 | bns.soccer       | available | $25.99    | $25.99        | high           | low    | 3      | namesilo                                    |
-| tex.soccer       | premium   | $34.36    | $34.36        | medium         | low    | 3      | spaceship                                   |
+| rus.soccer       | premium   | $34.36    | $34.36        | high           | low    | 3      | spaceship                                   |
 | bps.soccer       | available | $25.99    | $25.99        | high           | low    | 3      | namesilo                                    |
-| yes.soccer       | premium   | $242      | $242          | high           | medium | 3      | namesilo                                    |
+| tex.soccer       | premium   | $34.36    | $34.36        | medium         | low    | 3      | spaceship                                   |
 | bud.soccer       | available | $20.20    | $20.20        | high           | low    | 3      | cloudflare                                  |
-| zen.soccer       | premium   | $42.90    | $42.90        | high           | medium | 3      | namecheap                                   |
+| yes.soccer       | premium   | $242      | $242          | high           | medium | 3      | namesilo                                    |
 | cdp.soccer       | available | $20.90    | $20.90        | high           | low    | 3      | spaceship                                   |
-| melbourne.soccer | premium   | $42.90    | $42.90        | high           | low    | 9      | namecheap                                   |
+| zen.soccer       | premium   | $42.90    | $42.90        | high           | medium | 3      | namecheap                                   |
 | cpm.soccer       | available | $10.92    | $21.62        | high           | low    | 3      | dynadot                                     |
+| melbourne.soccer | premium   | $42.90    | $42.90        | high           | low    | 9      | namecheap                                   |
+| cvp.soccer       | available | $20.90    | $20.90        | high           | low    | 3      | spaceship                                   |
 | npl.soccer       | premium   | —         | —             | medium         | low    | 3      | —                                           |
+| dci.soccer       | available | $27.48    | $29.48        | high           | low    | 3      | namecheap                                   |
 | ect.soccer       | available | $25.99    | $25.99        | high           | low    | 3      | namesilo                                    |
 | eel.soccer       | available | $20.20    | $20.20        | high           | low    | 3      | cloudflare                                  |
 | egg.soccer       | available | $10.92    | $21.62        | high           | low    | 3      | dynadot                                     |
+| fag.soccer       | available | $25.99    | $25.99        | high           | low    | 3      | namesilo                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,261 live domains                        |
+| 1,000-row public sample | 32,839 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 5 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SOCCER One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SOCCER One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
